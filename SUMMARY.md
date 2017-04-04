@@ -2,7 +2,7 @@
 
 ## First
 
-* [try/123](try123.md)
+* [try/123](try/try_.md)
 
 ##Second
 
@@ -11,7 +11,6 @@
 * [third](third.md)
 * [trypp](trypp.md)
 * [trrr](trrr.md)
-* [try\_\_](/try/try_.md)
 
 
 
