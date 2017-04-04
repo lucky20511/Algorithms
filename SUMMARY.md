@@ -4,7 +4,7 @@
 
 ## Line
 
-* Move Zero
+* [Move Zero](line/move-zero.md)
 
 ## Tree
 
