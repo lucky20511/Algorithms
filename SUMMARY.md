@@ -4,6 +4,6 @@
 * [Introduction](README.md)
 * [try](try.md)
 * [third](third.md)
-* trypp
-* trrr
+* [trypp](trypp.md)
+* [trrr](trrr.md)
 
