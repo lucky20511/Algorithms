@@ -7,7 +7,6 @@
 
 ## Second
 
-* [Introduction](README.md)
 * [try](try.md)
 * [third](third.md)
 * [trypp](trypp.md)
