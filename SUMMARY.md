@@ -1,9 +1,5 @@
 # Summary
 
-## Introduction
-
-* [Introduction](README.md)
-
 ## First
 
 * [1123](/try/try_.md)
