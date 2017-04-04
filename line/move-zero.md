@@ -2,7 +2,7 @@ try to write something
 
 Solution 1:
 
-```java
+```py
 public class Solution{
     public void moveZero(int[] nums){
         for(int i = 0; i < nums.length; i++){
