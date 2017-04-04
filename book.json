@@ -1,8 +1,5 @@
 {
     "plugins": [
-        "theme-faq",
-        "-highlight",
-        "sunlight-highlighter",
-        "ga"
+        "theme-faq"
     ]
 }
