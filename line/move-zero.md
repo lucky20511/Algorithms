@@ -1,6 +1,8 @@
-try to write something
+## **Description**
 
-Solution 1:
+
+
+## Thinking
 
 ```java
 public class Solution{
