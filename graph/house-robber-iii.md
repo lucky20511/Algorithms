@@ -64,9 +64,49 @@ We could see find two things:
 
 \(2\) It exists the optimal substructure, because of \(1\) and the fact that the cost value of upper node only depends on node of lower level.
 
-Therefore, we could solve this by **bottom up** method of DP.
+Therefore, we could solve this by **bottom up** method of DP. We just keep it in mind temporarily.
 
-Note that, we can see the following object
+
+
+We need to decide how to create the different nodes of selected or non-selected, like 3x 3o. There are two ways.
+
+ First is that you just create two different nodes for selected and non selected. 
+
+Second is that you just skip the non-selected one.
+
+It seems that the latter would be much better, because you don't need create a node that you don't need.
+
+The following is the code of the above idea which is without DP:
+
+```java
+public class Solution {
+    public int rob(TreeNode root) {
+        if(root == null){
+            return 0;
+        }
+        int count_cur_layer = root.val;
+        if(root.left != null){
+            count_cur_layer += rob(root.left.left) + rob(root.left.right);
+        }
+        if(root.right != null){
+            count_cur_layer += rob(root.right.left) + rob(root.right.right);
+        }
+        return Math.max(count_cur_layer, rob(root.left)+rob(root.right));
+    }
+}
+```
+
+However, there is still lots overlap tree node like 4x. It's time to introduce the DP to improve the time complexity.
+
+The one method is we just introduce the Map to store the value which we already calculated.
+
+
+
+There is still another method which take the use of the property of DFS tree traversal.
+
+The following is that method.
+
+By observation, we can see the following object
 
 ```
     max
@@ -74,9 +114,9 @@ Note that, we can see the following object
    3o 3x
 ```
 
-as a node. It is better than taking 3o or 3x as a node.
+as a node. It is better than taking 3o or 3x as two different nodes.
 
-The following is the code without DP:
+The following is the code with DP:
 
 ```java
 public class Solution {
@@ -100,27 +140,9 @@ public class Solution {
 }
 ```
 
-The following is the code with DP:
 
-```java
-public class Solution {
-    public int rob(TreeNode root) {
-        if(root == null){
-            return 0;
-        }
-        int count_cur_layer = root.val;
-        if(root.left != null){
-            count_cur_layer += rob(root.left.left) + rob(root.left.right);
-        }
-        if(root.right != null){
-            count_cur_layer += rob(root.right.left) + rob(root.right.right);
-        }
-        return Math.max(count_cur_layer, rob(root.left)+rob(root.right));
-    }
-}
-```
 
-If you take the 3x or 3o as a single node, the code with DP would become:
+If you take the 3x or 3o as a single node and do not skip the 3x, the code with DP would become:
 
 ```java
 public class Solution {
