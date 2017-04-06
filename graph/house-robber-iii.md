@@ -14,7 +14,7 @@ Determine the maximum amount of money the thief can rob tonight without alerting
      3   1
 ```
 
-Maximum amount of money the thief can rob = 3+3+1=**7.**
+Maximum amount of money the thief can rob = 3 + 3 + 1 = **7.**
 
 **Example 2:**
 
@@ -29,8 +29,6 @@ Maximum amount of money the thief can rob = 3+3+1=**7.**
 Maximum amount of money the thief can rob = 4 + 5 = **9**.
 
 ## Thinking
-
-
 
 
 
