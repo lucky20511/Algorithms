@@ -30,5 +30,39 @@ Maximum amount of money the thief can rob = 4 + 5 = **9**.
 
 ## Thinking
 
+Taking the following tree as the example, I tried to plot the searching tree for all possible solution.
+
+```
+    3
+   / \
+  4   5
+ / \ 
+1   3  
+```
+
+After plotting the searching tree diagram, It should be like the following:
+
+```
+                 
+                   max
+               /         \
+              3o          3x
+              +            +
+            /  \        /     \
+          4x   5x     max       max
+          +         /    \      / \
+        /  \       4x     4o   5x 5o
+      max  max     +       +
+     / \   / \    / \     / \
+    1o 1x 3o 3x max max  1x  3x 
+                / \  / \
+               1o 1x 3o 3x
+
+```
+
+We could see that the code
+
+
+
 
 
