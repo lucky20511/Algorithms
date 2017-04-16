@@ -8,7 +8,7 @@
 
 4. Palindrome Number -- Based on the definition
 
-5. Counting Bits -- Observation of Regularity
+5. Counting Bits -- Observation of Regularity and Find out the Reused place
 
 
 
