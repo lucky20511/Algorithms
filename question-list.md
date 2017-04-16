@@ -1,6 +1,6 @@
 # Hard Question List
 
-1. Excel Sheet Column Title  -- Observation
+1. Excel Sheet Column Title  -- Observation of Regularity
 
 2. Linked List Cycle II -- Observation on Magic of Number
 
@@ -8,6 +8,7 @@
 
 4. Palindrome Number -- Based on the definition
 
-5. 
+5. Counting Bits -- Observation of Regularity
+
 
 
