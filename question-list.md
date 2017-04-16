@@ -4,7 +4,7 @@
 
 2. Linked List Cycle II -- Observation on Magic of Number
 
-3. Happy Number -- Take the property of "Cycle"
+3. Happy Number -- Observation and Take the property of "Cycle"
 
 
 
