@@ -6,5 +6,8 @@
 
 3. Happy Number -- Observation and Take the property of "Cycle"
 
+4. Palindrome Number -- Based on the definition
+
+5. 
 
 
