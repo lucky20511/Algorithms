@@ -10,5 +10,8 @@
 
 5. Counting Bits -- Observation of Regularity and Find out the Reused place
 
+6. Single Number II -- 
+
+7. 
 
 
