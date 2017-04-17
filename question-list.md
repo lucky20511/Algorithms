@@ -10,7 +10,7 @@
 
 5. Counting Bits -- Observation of Regularity and Find out the Reused place
 
-6. Single Number II -- 
+6. Single Number II -- bitwise shift about the sign "&gt;&gt;&gt;" and "&gt;&gt;" [http://www.geeksforgeeks.org/bitwise-shift-operators-in-java/](http://www.geeksforgeeks.org/bitwise-shift-operators-in-java/)
 
 7. 
 
