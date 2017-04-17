@@ -12,6 +12,7 @@
 
 6. Single Number II -- bitwise shift about the sign "&gt;&gt;&gt;" and "&gt;&gt;" [http://www.geeksforgeeks.org/bitwise-shift-operators-in-java/](http://www.geeksforgeeks.org/bitwise-shift-operators-in-java/)
 
-7. 
+7. Max Points on a Line -- 
+
 
 
