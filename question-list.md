@@ -14,5 +14,7 @@
 
 7. Max Points on a Line -- 
 
+8. Ugly Number -- Observation and try not to directly solve the question in a fastest way, try brute force method first.
+
 
 

@@ -6,9 +6,13 @@ Floor\(\);
 
 Ceiling\(\);
 
-
-
 ### StringBuilder
 
 sb.insert\(0, 'c'\)
+
+HashMap
+
+hashCode\(\)
+
+equals\(\)
 
