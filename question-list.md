@@ -1,4 +1,4 @@
-# Hard Question List
+# Good Question List
 
 1. Excel Sheet Column Title  -- Observation of Regularity
 
