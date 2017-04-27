@@ -18,8 +18,14 @@
 
 9. Bulb Switcher -- Math
 
-10. Evaluate Reverse Polish Notation -- Switch can use in String after 7
+10. Evaluate Reverse Polish Notation -- Switch can use in String after Java 7
 
-11. 
+11. Shuffle an Array -- How to copy the array
+
+12. Largest Number -- Comparator of Integer and int array might meet problems,    Hard to get the rule for create the comparator for string
+
+13. K-diff Pairs in an Array -- Write the tree figure for if and else analysis. Need to care about the order of put current number to map
+
+14. 
 
 
