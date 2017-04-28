@@ -30,4 +30,5 @@
 * [Intent IPC](android/intent-ipc.md)
 * [Life Cycle](android/life-cycle.md)
 * [Android HTTP Server](android/android-http-server.md)
+* [Implicit intent v.s BroadcastReceiver](android/implicit-intent-vs-broadcastreceiver.md)
 
