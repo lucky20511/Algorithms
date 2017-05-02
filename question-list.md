@@ -2,7 +2,7 @@
 
 1. Excel Sheet Column Title  -- Observation of Regularity
 
-2. Linked List Cycle II -- Observation on Magic of Number
+2. **\*\*Linked List Cycle II** -- Observation and find the relation of Number
 
 3. Happy Number -- Observation and Take the property of "Cycle"
 
