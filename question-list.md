@@ -26,6 +26,9 @@
 
 13. K-diff Pairs in an Array -- Write the tree figure for if and else analysis. Need to care about the order of put current number to map
 
-14. 
+14. Find All Duplicates in an Array -- The limitation of number in array imply it is kind of index. If you want to use a look function table, combining it with original array is a good option. But needs to figure out how.
+
+15. Find the Duplicate Number -- The limitation of number in array imply it is kind of index. There is only one element appear multiple times imply that we only need to find out that number by using the property of cycle.
+
 
 
