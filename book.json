@@ -2,12 +2,7 @@
     "plugins": [
         "theme-faq",
         "-highlight",
-        "sunlight-highlighter",
-        "ga"
-    ],
-    "pluginsConfig": {
-        "ga": {
-            "token": "UA-9369142-3"
-        }
-    }
+        "sunlight-highlighter"
+    ]
 }
+
