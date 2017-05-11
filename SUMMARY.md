@@ -21,15 +21,3 @@
 * [House Robber II](graph/house-robber-ii.md)
 * [House Robber III](graph/house-robber-iii.md)
 
-## Android
-
-* [Communication Methods](android/communication-methods.md)
-* [Binder to Service](android/binder-to-service.md)
-* [AIDL](android/aidl.md)
-* [Messenger](android/messenger.md)
-* [Intent IPC](android/intent-ipc.md)
-* [Life Cycle](android/life-cycle.md)
-* [Android HTTP Server](android/android-http-server.md)
-* [Implicit intent v.s BroadcastReceiver](android/implicit-intent-vs-broadcastreceiver.md)
-* [IDL](android/idl.md)
-
