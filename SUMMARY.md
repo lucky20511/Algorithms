@@ -3,6 +3,7 @@
 ## List of Questions
 
 * [Question List](list-of-questions/question-list.md)
+* [Special Functions and Data Structure](list-of-questions/special-functions-and-data-structure.md)
 
 ## Hard List
 
