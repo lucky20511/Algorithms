@@ -5,12 +5,6 @@
 * [Question List](list-of-questions/question-list.md)
 * [Special Functions and Data Structure](list-of-questions/special-functions-and-data-structure.md)
 
-## Hard List
-
-* [Introduction](README.md)
-* [Question List](question-list.md)
-* [Special Function & Data Structure](special-function-and-data-structure.md)
-
 ## Line
 
 * [Move Zeros](line/move-zero.md)
