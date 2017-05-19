@@ -32,5 +32,7 @@
 
 16. Rotate Array: Observation
 
+17. First Unique Character in a String -- 'a' &gt; 'A'  in ASCII code
+
 
 
