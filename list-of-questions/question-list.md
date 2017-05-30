@@ -30,9 +30,12 @@
 
 15. Find the Duplicate Number -- The limitation of number in array imply it is kind of index. There is only one element appear multiple times imply that we only need to find out that number by using the property of cycle.
 
-16. Rotate Array: Observation
+16. Rotate Array -- Observation
 
-17. First Unique Character in a String -- 'a' &gt; 'A'  in ASCII code
+17. First Unique Character in a String --   'a' &gt; 'A'  in ASCII code
 
+18. Gray Code -- Observation the the regular pattern
+
+19. 
 
 
