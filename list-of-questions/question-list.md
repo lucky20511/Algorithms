@@ -36,6 +36,7 @@
 
 18. Gray Code -- Observation the the regular pattern
 
-19. 
+19. Single Number -- Bit Manipulation on XOR, but that's not enough. Take use of division.
+
 
 
