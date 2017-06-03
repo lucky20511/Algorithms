@@ -26,3 +26,13 @@ hashCode\(\)
 
 equals\(\)
 
+### Sort HashMap
+
+
+
+
+
+### Comparator by Lambda
+
+
+
