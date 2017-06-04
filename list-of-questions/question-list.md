@@ -40,7 +40,7 @@
 
 20. Top K Frequent Elements -- After put into the hashMap, we can sorted by \(1\)Sorted the tree by replace the key to the frequency and put to treemap \(2\) put the entry of map into priority queue and override the comparator, and the **BEST method** \(3\)put the hashmap into array in the index of frequency, because the frequency has the range \[1 : nums.length\]
 
-21. Search a 2D Matrix II -- Try to figure out to make search direction "one-way"
+21. Search a 2D Matrix II -- Try to figure out to make search direction "one-way" ==&gt; exactly the same as 3-sum
 
 
 
