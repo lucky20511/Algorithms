@@ -26,21 +26,11 @@ hashCode\(\)
 
 equals\(\)
 
-
-
-### Bubble Sort
-
-
-
-### Sort HashMap
-
 ### Comparator by Lambda
-
-
 
 ### JAVA 8
 
-
+map.getOrDefault\(\)
 
 
 
