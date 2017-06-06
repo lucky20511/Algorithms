@@ -1,5 +1,16 @@
 # Special Function & Data Structure
 
+### Primitive type
+
+* long cannot be dereferenced  but Long can. ==&gt; Because some primitive type is very limited.
+* Integer != int    &lt;int, int&gt; --&gt; error   &lt;Integer, Integer&gt; --&gt; correct
+
+
+
+
+
+
+
 ### **TreeSet**
 
 Floor\(\);
@@ -31,6 +42,4 @@ equals\(\)
 ### JAVA 8
 
 map.getOrDefault\(\)
-
-
 
