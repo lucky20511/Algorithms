@@ -42,5 +42,7 @@
 
 21. Search a 2D Matrix II -- Try to figure out to make search direction "one-way" ==&gt; exactly the same as 3-sum
 
+22. Additive Number -- Observe that only two first element has multiple possible way. The left steps are unique path. 
+
 
 
