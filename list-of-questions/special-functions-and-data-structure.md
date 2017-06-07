@@ -1,15 +1,17 @@
 # Special Function & Data Structure
 
+### Bit manipulation
+
+1.Get the smallest bit  --&gt;  n & -n
+
+2.Delete the fist right most 1 bit
+
+
+
 ### Primitive type
 
 * long cannot be dereferenced  but Long can. ==&gt; Because some primitive type is very limited.
 * Integer != int    &lt;int, int&gt; --&gt; error   &lt;Integer, Integer&gt; --&gt; correct
-
-
-
-
-
-
 
 ### **TreeSet**
 
