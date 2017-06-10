@@ -46,6 +46,7 @@
 
 23. Isomorphic Strings -- S want to map to T, T also want to map to S. Why not S and T map a same unique number. So we can easily check if the S and T are 2gether. Here index is that unique and trivial number we can use.
 
-24. 
+24. Find Peak Element -- If there is some "directional" feature, try to think about Binary Search
+
 
 
