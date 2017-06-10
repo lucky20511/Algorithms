@@ -42,7 +42,20 @@
 
 21. Search a 2D Matrix II -- Try to figure out to make search direction "one-way" ==&gt; exactly the same as 3-sum
 
-22. Additive Number -- Observe that only two first element has multiple possible way. The left steps are unique path. 
+22. Additive Number -- Observe that only two first element has multiple possible way. The left steps are unique path.
+
+23. Isomorphic Strings -- S want to map to T, T also want to map to S. Why not S and T map a same unique number. So we can easily check if the S and T are 2gether. Here index is that unique and trivial number we can use.
+
+24. 
+
+
+
+
+
+
+
+
+
 
 
 
