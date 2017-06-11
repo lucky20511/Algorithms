@@ -50,7 +50,12 @@
 
 25. Trapping Rain Water -- Hint: if leftmost bar is 2 right most bar is 3, every bar in between which is lower than 2 can contains water
 
-26. Trapping Rain Water II -- Same idea as Trapping Rain Water. Start from the lowest edge. How to start the edge in the order of height ? by Priority Queue. 
+26. Trapping Rain Water II -- Same idea as Trapping Rain Water. Start from the lowest edge. How to start the edge in the order of height ? by Priority Queue.
 
+27. Majority Element -- Take use of the property, that element appears more than \[n/2\] times. Means if we do a game of deletion, it will survive at the end.
+
+28. Majority Element II -- Take use of the property. If we play a game of deletion with two number at a time, these two "might" survive at the end. So we also need to check their validity respectively.
+
+29. 
 
 
