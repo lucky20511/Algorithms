@@ -4,7 +4,7 @@
 
 1.Get the smallest bit  --&gt;  n & -n
 
-2.Delete the fist right most 1 bit
+2.Delete the fist rightmost '1'  n&\(n-1\) 
 
 3.`>>`is arithmetic shift right,`>>>`is logical shift right. In an arithmetic shift, the sign bit is extended to preserve the sign of the number.
 
