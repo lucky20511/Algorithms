@@ -48,9 +48,9 @@
 
 24. Find Peak Element -- If there is some "directional" feature, try to think about Binary Search
 
-25. Trapping Rain Water -- 
+25. Trapping Rain Water -- Hint: if leftmost bar is 2 right most bar is 3, every bar in between which is lower than 2 can contains water
 
-26. Trapping Rain Water II --
+26. Trapping Rain Water II -- Same idea as Trapping Rain Water. Start from the lowest edge. How to start the edge in the order of height ? by Priority Queue. 
 
 
 
