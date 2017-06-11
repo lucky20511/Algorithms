@@ -56,6 +56,8 @@
 
 28. Majority Element II -- Take use of the property. If we play a game of deletion with two number at a time, these two "might" survive at the end. So we also need to check their validity respectively.
 
-29. 
+29. Gas Station \(Similar with \) -- \(1\) If car starts at A and can not reach B. Any station between A and B can not reach B.\(B is the first station that A can not reach. \(2\) If the total number of gas is bigger than the total number of cost. There must be a solution.
+
+30. 
 
 
