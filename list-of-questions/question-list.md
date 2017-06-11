@@ -48,5 +48,9 @@
 
 24. Find Peak Element -- If there is some "directional" feature, try to think about Binary Search
 
+25. Trapping Rain Water -- 
+
+26. Trapping Rain Water II --
+
 
 
