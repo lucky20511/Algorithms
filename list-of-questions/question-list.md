@@ -58,7 +58,10 @@
 
 29. Gas Station \(Similar with Maximum Subarray\) -- \(1\) If car starts at A and can not reach B. Any station between A and B can not reach B.\(B is the first station that A can not reach. \(2\) If the total number of gas is bigger than the total number of cost. There must be a solution.
 
-30. Set Matrix Zeroes --
+30. Set Matrix Zeroes -- First method is using mask with O\(mn\) space. Another is using the hashset, array or other to store the state of each row and col with O\(m+n\). The best solution for space complexity is store the state of each col and row just in the origin table.  However, we need to create a extra variable for first row or first col because of "overlap".
 
+31. Different Ways to Add Parentheses -- Figure out how to group the numbers because the description is not so clear. Then figure out what is the terminating condition and how to handle it.
+
+32. 
 
 
