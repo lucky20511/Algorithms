@@ -62,6 +62,7 @@
 
 31. Different Ways to Add Parentheses -- Figure out how to group the numbers because the description is not so clear. Then figure out what is the terminating condition and how to handle it.
 
-32. 
+32. Lexicographical Numbers -- 
+
 
 
