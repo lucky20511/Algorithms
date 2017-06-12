@@ -62,7 +62,8 @@
 
 31. Different Ways to Add Parentheses -- Figure out how to group the numbers because the description is not so clear. Then figure out what is the terminating condition and how to handle it.
 
-32. Lexicographical Numbers -- 
+32. Lexicographical Numbers -- Has \(1\)Recursive and \(2\)Iterative methods. Need to find out the regularity by observation and carefully handle the corner cases like '9'.
 
+33. 
 
 
