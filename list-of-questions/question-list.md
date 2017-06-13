@@ -68,12 +68,13 @@
 
 34. Compare Version Numbers -- Need to carefully handle this problem. Need to Know following things:
 
-    1. "123.".split\("\\\\."\) == {"123"}
+    1. "123.".split\("\\."\) == {"123"}
 
-    2. "123".split\("\\\\."\) == {"123"}
+    2. "123".split\("\\."\) == {"123"}
 
-    3. "123.2".split\("\\\\."\) == {"123", "2"}
+    3. "123.2".split\("\\."\) == {"123", "2"}
 
-35. 
+35. 1
+
 
 
