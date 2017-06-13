@@ -4,7 +4,7 @@
 
 1.Get the smallest bit  --&gt;  n & -n
 
-2.Delete the fist rightmost '1'  n&\(n-1\) 
+2.Delete the fist rightmost '1'  n&\(n-1\)
 
 3.`>>`is arithmetic shift right,`>>>`is logical shift right. In an arithmetic shift, the sign bit is extended to preserve the sign of the number.
 
@@ -40,6 +40,8 @@ hashCode\(\)
 equals\(\)
 
 ### Comparator by Lambda
+
+PriorityQueue&lt;Integer&gt; pq = new PriorityQueue&lt;&gt;\(\(o1, o2\)-&gt;o1-o2\);
 
 ### JAVA 8
 
