@@ -66,7 +66,14 @@
 
 33. Missing Ranges -- Need to care about the corner cases like empty array or Integer.MAX\__VALUE & Integer.MIN_\_VALUE
 
-34. Compare Version Numbers -- Need to carefully handle this problem. Need to Know
+34. Compare Version Numbers -- Need to carefully handle this problem. Need to Know following things:
 
+    1. "123.".split\("\\."\) == {"123"}
+
+    2. "123".split\("\\."\) == {"123"}
+
+    3. "123.2".split\("\\."\) == {"123", "2"}
+
+35. 
 
 
