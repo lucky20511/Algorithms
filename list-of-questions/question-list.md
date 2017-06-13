@@ -64,6 +64,8 @@
 
 32. Lexicographical Numbers -- Has \(1\)Recursive and \(2\)Iterative methods. Need to find out the regularity by observation and carefully handle the corner cases like '9'.
 
-33. 
+33. Missing Ranges -- Need to care about the corner cases like empty array or Integer.MAX\__VALUE & Integer.MIN_\_VALUE
+
+34. 
 
 
