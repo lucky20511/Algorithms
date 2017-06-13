@@ -23,6 +23,16 @@ Ceiling\(\);
 
 sb.insert\(0, 'c'\)
 
+### String
+
+"123.".split\("\\."\) == {"123"}
+
+"123".split\("\\."\) == {"123"}
+
+"123.2".split\("\\."\) == {"123" , "2"}
+
+
+
 ### HashMap
 
 [http://www.programcreek.com/2011/07/java-equals-and-hashcode-contract/](http://www.programcreek.com/2011/07/java-equals-and-hashcode-contract/)
