@@ -23,6 +23,8 @@ Ceiling\(\);
 
 sb.insert\(0, 'c'\)
 
+sb.length\(\);
+
 ### String
 
 `"123.".split("\\.") == {"123"}`
