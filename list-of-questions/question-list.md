@@ -76,6 +76,8 @@
 
 35. Fraction to Recurring Decimal -- Pretty Hard. Need to take care the value &lt; 0. Don't take the "digit" to evaluate the repeating. Use the reminder of each iteration to evaluate the if the repeating happens. It's hard to use two pointer to solve this question. Although 2 ptr has the ability to find out the start point of repeating, it is not able to know exactly which part is repeating. Therefore, Use the HashMap to record the reminder of each iteration in which key--&gt;reminder   and  value--&gt;index
 
-36. 
+36. Elimination Game -- Need to Observe to find out \(1\) The last remaining is head \(2\) the rule of updating head
+
+37. 
 
 
