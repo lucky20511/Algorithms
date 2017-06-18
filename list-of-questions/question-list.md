@@ -78,6 +78,10 @@
 
 36. Elimination Game -- Need to Observe to find out \(1\) The last remaining is head \(2\) the rule of updating head
 
-37. 
+37. Longest Substring Without Repeating Characters -- 
+
+38. Longest Substring with At Least K Repeating Characters -- 
+
+39. 
 
 
