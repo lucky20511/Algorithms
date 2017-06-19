@@ -78,7 +78,7 @@
 
 36. Elimination Game -- Need to Observe to find out \(1\) The last remaining is head \(2\) the rule of updating head
 
-37. Longest Substring with At Least K Repeating Characters --
+37. Longest Substring with At Least K Repeating Characters -- Using the idea of Sliding window. The concept of sliding window is to reduce the redundant iteration \(e.g \)
 
 38. Longest Substring Without Repeating Characters --
 
