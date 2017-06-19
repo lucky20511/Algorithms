@@ -86,6 +86,8 @@
 
 40. Longest Substring with At Most K Distinct Characters -- Same as the case of two distinct characters. However, we can choose the Map to store the appearance record of previous characters.
 
-41. 
+41. Wiggle Sort -- Firstly, it is easy to come up with a solution by sort and reorder. However, that solution is complicated and with big time complexity. Try to run some easy idea. Then get a very simple idea which is different from the previous complex idea.
+
+42. 
 
 
