@@ -78,14 +78,17 @@
 
 36. Elimination Game -- Need to Observe to find out \(1\) The last remaining is head \(2\) the rule of updating head
 
-37. Longest Substring with At Least K Repeating Characters -- Using the idea of Sliding window. The concept of sliding window is to reduce the redundant iteration \(e.g if 1~5 is invalid, 1~6, 1~7 and 1~N, N&gt;5 is also invalid\). Keep moving one pointer\(tail\) till the end of array. When the subarray becomes invalid, move another pointer\(head\) till the array is back to valid status. Then update the ret value.
+37. Longest Substring Without Repeating Characters -- Using the idea of Sliding window. The concept of sliding window is to reduce the redundant iteration \(e.g if 1~5 is invalid, 1~6, 1~7 and 1~N, N&gt;5 is also invalid\). Keep moving one pointer\(tail\) till the end of array. When the subarray becomes invalid, move another pointer\(head\) till the array is back to valid status. Then update the ret value.
 
-38. Longest Substring Without Repeating Characters --
+38. Longest Substring with At Least K Repeating Characters -- It's pretty hard to solve this question within N^2 time complexity. Fortunately, there is a "lower case" condition. It's very powerful condition. Therefore, we can know that there is at most 26 unique at least K repeating characters. We now can solve this question by solving the problem 
 
 39. Longest Substring with At Most Two Distinct Characters --
 
 40. Longest Substring with At Most K Distinct Characters --
 
-41. 
+
+
+
+
 
 
