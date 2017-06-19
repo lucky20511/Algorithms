@@ -78,7 +78,7 @@
 
 36. Elimination Game -- Need to Observe to find out \(1\) The last remaining is head \(2\) the rule of updating head
 
-37. Longest Substring with At Least K Repeating Characters -- Using the idea of Sliding window. The concept of sliding window is to reduce the redundant iteration \(e.g \)
+37. Longest Substring with At Least K Repeating Characters -- Using the idea of Sliding window. The concept of sliding window is to reduce the redundant iteration \(e.g if 1~5 is invalid, 1~6, 1~7 and 1~N, N&gt;5 is also invalid\). Keep moving one pointer\(tail\) till the end of array. When the subarray becomes invalid, move another pointer\(head\) till the array is back to valid status. Then update the ret value.
 
 38. Longest Substring Without Repeating Characters --
 
