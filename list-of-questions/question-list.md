@@ -80,7 +80,7 @@
 
 37. Longest Substring Without Repeating Characters -- Using the idea of Sliding window. The concept of sliding window is to reduce the redundant iteration \(e.g if 1~5 is invalid, 1~6, 1~7 and 1~N, N&gt;5 is also invalid\). Keep moving one pointer\(tail\) till the end of array. When the subarray becomes invalid, move another pointer\(head\) till the array is back to valid status. Then update the ret value.
 
-38. Longest Substring with At Least K Repeating Characters -- It's pretty hard to solve this question within N^2 time complexity. Fortunately, there is a "lower case" condition. It's very powerful condition. Therefore, we can know that there is at most 26 unique at least K repeating characters. We now can solve this question by solving the sub-problem "Longest Substring with At Least K Repeating Characters and N Unique Characters" and traverse N from 1 to 26.
+38. Longest Substring with At Least K Repeating Characters -- It's pretty hard to solve this question within N^2 time complexity. Fortunately, there is a "lower case" condition. It's very powerful condition. Therefore, we can know that there is at most 26 unique at least K repeating characters. We now can solve tshis question by solving the sub-problem "Longest Substring with At Least K Repeating Characters and N Unique Characters" and traverse N from 1 to 26.
 
 39. Longest Substring with At Most Two Distinct Characters -- We need to use the concept of Sliding window to reduce the redundancy of each iteration or remove some redundant iterations. There is two methods to keep the record of appearance of previous data: One is Map, another is two pointers. In this case two pointers is enough because there is at most two distinct characters. One pointer p1 is to represent current head. Another pointer p2 is to represent the first element among the latest unique character, e.g "eceeee'c'cc" p2 is at the position of the the 'c'. Then find the proper moment to \(1\)update the p2 \(2\) update the p1 and \(3\) update the return value.
 
@@ -88,6 +88,8 @@
 
 41. Wiggle Sort -- Firstly, it is easy to come up with a solution by sort and reorder. However, that solution is complicated and with big time complexity. Try to run some easy idea. Then get a very simple idea which is different from the previous complex idea.
 
-42. 
+42. Number Complement -- 
+
+43. 
 
 
