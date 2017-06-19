@@ -2,7 +2,7 @@
 
 1. Excel Sheet Column Title  -- Observation of Regularity
 
-2. **\*\*Linked List Cycle II** -- Observation and find the relation of Number.Cycle --&gt; can use  \(1\)slow and fast ptr or \(2\)Map in which value is the position index ,  to detect if there is a cycle and the starting point of cycle. 
+2. **\*\*Linked List Cycle II** -- Observation and find the relation of Number.Cycle --&gt; can use  \(1\)slow and fast ptr or \(2\)Map in which value is the position index ,  to detect if there is a cycle and the starting point of cycle.
 
 3. Happy Number -- Observation and Take the property of "Cycle"
 
@@ -84,7 +84,7 @@
 
 39. Longest Substring with At Most Two Distinct Characters -- We need to use the concept of Sliding window to reduce the redundancy of each iteration or remove some redundant iterations. There is two methods to keep the record of appearance of previous data: One is Map, another is two pointers. In this case two pointers is enough because there is at most two distinct characters. One pointer p1 is to represent current head. Another pointer p2 is to represent the first element among the latest unique character, e.g "eceeee'c'cc" p2 is at the position of the the 'c'. Then find the proper moment to \(1\)update the p2 \(2\) update the p1 and \(3\) update the return value.
 
-40. Longest Substring with At Most K Distinct Characters -- Same as Two Distinct case. However, we can choose the Map to store the appearance record of previous characters.
+40. Longest Substring with At Most K Distinct Characters -- Same as the case of two distinct characters. However, we can choose the Map to store the appearance record of previous characters.
 
 41. 
 
