@@ -88,8 +88,9 @@
 
 41. Wiggle Sort -- Firstly, it is easy to come up with a solution by sort and reorder. However, that solution is complicated and with big time complexity. Try to run some easy idea. Then get a very simple idea which is different from the previous complex idea.
 
-42. Number Complement -- 
+42. Number Complement --
 
-43. 
+43. Maximum XOR of Two Numbers in an Array
+
 
 
