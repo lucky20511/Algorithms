@@ -90,7 +90,7 @@
 
 42. Number Complement -- Calculate it bit-by-bit by shifting it right and using 1 as mask and add it back by shifting the new bit left. Calculate the bit from small to large, that is right to left. Terminate when the number of shift bit is larger than the number itself.
 
-43. Maximum XOR of Two Numbers in an Array -- 
+43. Maximum XOR of Two Numbers in an Array --
 
 
 
