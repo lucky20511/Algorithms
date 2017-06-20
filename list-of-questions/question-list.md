@@ -90,7 +90,7 @@
 
 42. Number Complement -- Calculate it bit-by-bit by shifting it right and using 1 as mask and add it back by shifting the new bit left. Calculate the bit from small to large, that is right to left. Terminate when the number of shift bit is larger than the number itself.
 
-43. Maximum XOR of Two Numbers in an Array --
+43. Maximum XOR of Two Numbers in an Array -- Initially, I thought about some method like tree. However, it's not easy to figure out how. With Trie, we can try each numbers in array with trie. The complexity would be only O\(31N\) which is still O\(N\). Or there is another smart method. We can try to find the max value by adding the bit one-by-one from left to right which is from large to small and try to find out if there exist a pair that can make this max happen.
 
 
 
