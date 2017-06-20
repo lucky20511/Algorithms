@@ -8,12 +8,14 @@
 
 3.`>>`is arithmetic shift right,`>>>`is logical shift right. In an arithmetic shift, the sign bit is extended to preserve the sign of the number.
 
-4. 
+4. if a^b = c  then   a^c = b and  b^c = a
 
-### Primitive type
+5. ~\(1\) is not 0, it is -2
 
-* long cannot be dereferenced  but Long can. ==&gt; Because some primitive type is very limited.
-* Integer != int    &lt;int, int&gt; --&gt; error   &lt;Integer, Integer&gt; --&gt; correct
+1. ### Primitive type
+2. long cannot be dereferenced  but Long can. ==&gt; Because some primitive type is very limited.
+
+3. Integer != int    &lt;int, int&gt; --&gt; error   &lt;Integer, Integer&gt; --&gt; correct
 
 ### **TreeSet**
 
