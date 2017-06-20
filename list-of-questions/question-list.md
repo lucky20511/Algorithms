@@ -92,7 +92,7 @@
 
 43. Maximum XOR of Two Numbers in an Array -- Initially, I thought about some method like tree. However, it's not easy to figure out how. With Trie, we can try each numbers in array with trie. The complexity would be only O\(31N\) which is still O\(N\). Or there is another smart method. We can try to find the max value by adding the bit one-by-one from left to right which is from large to small and try to find out if there exist a pair that can make this max happen.
 
-44. Pascal's Triangle II -- To modify the value in-place, we should modify the value from right to left in which we update the value by s\[j\] = s\[j\]+s\[j-1\]  where j = 1~i-1  in ith layer.
+44. Pascal's Triangle II -- To modify the value in-place, we should modify the value from right to left in which we update the value by s\[j\] = s\[j\]+s\[j-1\]  where j = 1~ i-1  in ith layer.
 
 45. 
 
