@@ -88,9 +88,9 @@
 
 41. Wiggle Sort -- Firstly, it is easy to come up with a solution by sort and reorder. However, that solution is complicated and with big time complexity. Try to run some easy idea. Then get a very simple idea which is different from the previous complex idea.
 
-42. Number Complement --
+42. Number Complement -- Calculate it bit-by-bit by shifting it right and using 1 as mask and add it back by shifting the new bit left. Calculate the bit from small to large, that is right to left. Terminate when the number of shift bit is larger than the number itself.
 
-43. Maximum XOR of Two Numbers in an Array
+43. Maximum XOR of Two Numbers in an Array -- 
 
 
 
