@@ -8,6 +8,8 @@
 
 3.`>>`is arithmetic shift right,`>>>`is logical shift right. In an arithmetic shift, the sign bit is extended to preserve the sign of the number.
 
+4. 
+
 ### Primitive type
 
 * long cannot be dereferenced  but Long can. ==&gt; Because some primitive type is very limited.
