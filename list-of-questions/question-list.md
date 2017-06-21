@@ -96,7 +96,8 @@
 
 45. Queue Reconstruction by Height -- Firstly come up with a idea that always find the head and update the rest people whose height is shorter than that head. Then keep doing that till the end.  Secondly, need to observe that if your group people with the same height from tall to small, you can find that the index is equal to the position index in which that people should be inserted!!!!!! It's not easy to find out!
 
-46. Reverse Linked List II -- 
+46. Reverse Linked List II -- Very important problem which can be solved by using 3 pointers \(dummy exclusive\). Need to think about this problem often and compare with Reverse Linked List.
 
+47. 
 
 
