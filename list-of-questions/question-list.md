@@ -2,7 +2,7 @@
 
 1. Excel Sheet Column Title  -- Observation of Regularity
 
-2. **\*\*Linked List Cycle II** -- Observation and find the relation of Number.Cycle --&gt; can use  \(1\)slow and fast ptr or \(2\)Map in which value is the position index ,  to detect if there is a cycle and the starting point of cycle.
+2. **\*\*Linked List Cycle II** -- Observation and find the relation of Number.Cycle --&gt; can use  \(1\)slow and fast ptr or \(2\)Map in which value is the position index ,  to detect if there is a cycle and the starting point of cycle. **Please remember how to detect the starting point of cycle by two pointers!!!**
 
 3. Happy Number -- Observation and Take the property of "Cycle"
 
