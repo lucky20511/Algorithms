@@ -8,9 +8,9 @@
 
 3.`>>`is arithmetic shift right,`>>>`is logical shift right. In an arithmetic shift, the sign bit is extended to preserve the sign of the number.
 
-if a^b = c  then   a^c = b and  b^c = a
+4.if a^b = c  then   a^c = b and  b^c = a
 
-~\(1\) is not 0, it is -2
+5.~\(1\) is not 0, it is -2
 
 ### Primitive type
 
