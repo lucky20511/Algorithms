@@ -19,7 +19,17 @@
 
 ### List
 
+**LinkedList** \(double linked List\)
 
+add\(int index, E element\)  ---&gt;  _O\(n/4\) _average
+
+get\(int index\)  ---&gt; _O\(n/4\) _average
+
+**ArrayList  **\(array\)
+
+add\(int index, E element\) ---&gt;  _O\(n/2\) _average
+
+get\(int index\)  ---&gt; _O\(1\) _average
 
 ### **TreeSet**
 
