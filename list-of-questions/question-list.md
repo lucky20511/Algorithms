@@ -94,7 +94,7 @@
 
 44. Pascal's Triangle II -- To modify the value in-place, we should modify the value from right to left in which we update the value by s\[j\] = s\[j\]+s\[j-1\]  where j = 1~ i-1  in ith layer.
 
-45. Queue Reconstruction by Height -- 
+45. Queue Reconstruction by Height -- Firstly come up with a idea that always find the head and update the rest people whose height is shorter than that head. Then keep doing that till the end.  Secondly, need to observe that if your group people with the same height from tall to small, you can find that the index is equal to the position index in which that people should be inserted!!!!!! It's not easy to find out!  
 
 46. 
 
