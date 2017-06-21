@@ -8,28 +8,31 @@
 
 3.`>>`is arithmetic shift right,`>>>`is logical shift right. In an arithmetic shift, the sign bit is extended to preserve the sign of the number.
 
-1. if a^b = c  then   a^c = b and  b^c = a
+4. if a^b = c  then   a^c = b and  b^c = a
 
-2. ~\(1\) is not 0, it is -2
 
-3. ### Primitive type
-4. long cannot be dereferenced  but Long can. ==&gt; Because some primitive type is very limited.
 
-5. Integer != int    &lt;int, int&gt; --&gt; error   &lt;Integer, Integer&gt; --&gt; correct
+5. ~\(1\) is not 0, it is -2
+
+### Primitive type
+
+1. long cannot be dereferenced  but Long can. ==&gt; Because some primitive type is very limited.
+
+2. Integer != int    &lt;int, int&gt; --&gt; error   &lt;Integer, Integer&gt; --&gt; correct
 
 ### List
 
 **LinkedList** \(double linked List\)
 
-add\(int index, E element\)  ---&gt;  _O\(n/4\) _average
+add\(int index, E element\)  ---&gt;  \_O\(n/4\) \_average
 
-get\(int index\)  ---&gt; _O\(n/4\) _average
+get\(int index\)  ---&gt; \_O\(n/4\) \_average
 
 **ArrayList  **\(array\)
 
-add\(int index, E element\) ---&gt;  _O\(n/2\) _average
+add\(int index, E element\) ---&gt;  \_O\(n/2\) \_average
 
-get\(int index\)  ---&gt; _O\(1\) _average
+get\(int index\)  ---&gt; \_O\(1\) \_average
 
 ### **TreeSet**
 
