@@ -4,9 +4,7 @@
 
 1.HashMap HashSet
 
-2.**Array** --&gt; all char:  int\[256\]  alphabet: int\[26\]
-
-
+2.**Array** --&gt; all char:  int\[256\]  or  alphabet: int\[26\]
 
 ### Bit manipulation
 
