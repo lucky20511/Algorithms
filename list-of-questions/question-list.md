@@ -100,6 +100,8 @@
 
 47. Flatten Binary Tree to Linked List -- Super hard!
 
-48. 
+48. Minimum Moves to Equal Array Elements -- After observation, figure out what the arithmetic equation is and solve it as a math question.
+
+49. 
 
 
