@@ -44,7 +44,7 @@
 
 22. Additive Number -- Observe that only two first element has multiple possible way. The left steps are unique path.
 
-23. Isomorphic Strings -- S want to map to T, T also want to map to S. Why not S and T map a same unique number. So we can easily check if the S and T are 2gether. Here index is that unique and trivial number we can use.
+23. Isomorphic Strings -- S want to map to T, T also want to map to S. Why not S and T map a same unique number. So we can easily check if the S and T are together. Here index is that unique and trivial number we can use.
 
 24. Find Peak Element -- If there is some "directional" feature, try to think about Binary Search
 
@@ -102,7 +102,7 @@
 
 48. Minimum Moves to Equal Array Elements -- After observation, figure out what the arithmetic equation is and solve it as a math question.
 
-49. Keyboard Row -- 
+49. Keyboard Row -- We definitely need a data structure to allow us look up the character. We can use array with 256 size as a look up table which is similar with question "Isomorphic Strings".
 
 
 
