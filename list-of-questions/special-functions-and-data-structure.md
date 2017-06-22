@@ -1,5 +1,13 @@
 # Special Function & Data Structure
 
+### Lookup Data
+
+1.HashMap HashSet
+
+2.**Array** --&gt; all char:  int\[256\]  alphabet: int\[26\]
+
+
+
 ### Bit manipulation
 
 1.Get the smallest bit  --&gt;  n & -n
