@@ -102,6 +102,7 @@
 
 48. Minimum Moves to Equal Array Elements -- After observation, figure out what the arithmetic equation is and solve it as a math question.
 
-49. 
+49. Keyboard Row -- 
+
 
 
