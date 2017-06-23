@@ -106,5 +106,6 @@
 
 50. Moving Average from Data Stream -- Could solve by LinkedList or Array respectively.
 
+51. 
 
 
