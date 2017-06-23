@@ -104,5 +104,7 @@
 
 49. Keyboard Row -- We definitely need a data structure to allow us look up the character. We can use array with 256 size as a look up table which is similar with question "Isomorphic Strings".
 
+50. Moving Average from Data Stream -- Could solve by LinkedList or Array respectively.
+
 
 
