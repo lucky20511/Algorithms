@@ -1,5 +1,15 @@
 # Special Function & Data Structure
 
+### Array &lt;--&gt; List
+
+array --&gt; list
+
+Arrays.asList\(nums\);
+
+list --&gt; array
+
+num\__list.toArray\(new int\[num\_list.size\(\)_\]\);
+
 ### Lookup Data
 
 1.HashMap HashSet
