@@ -108,8 +108,11 @@
 
 51. Sliding Window Maximum -- Need to think about how to update the maximum value within linear time instead of O\(KN\). Then find that we need to put the index into a double queue instead of using value.
 
-52. Reverse String III -- Do you best to find all corner cases and make sure your algorithm can cover that.
+52. Reverse String III -- Do you best to find all corner cases and make sure your 2-pointer algorithm can cover all of them.
 
-53. 
+53. Reverse String II -- Find out all corner cases and make sure your 2-pointer algorithm can cover all of them.
+
+54. Reverse Words in a String -- Find out all corner cases and make sure your 2-pointer algorithm can cover all of them.
+
 
 
