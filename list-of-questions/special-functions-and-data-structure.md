@@ -1,5 +1,14 @@
 # Special Function & Data Structure
 
+### Deque
+
+|  | Head | Head | Tail | Tail |
+| :--- | :--- | :--- | :--- | :--- |
+|  | _Throws exception_ | _Special value_ | _Throws exception_ | _Special value_ |
+| **Insert** | [`addFirst(e)`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#addFirst%28E%29) | [`offerFirst(e)`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#offerFirst%28E%29) | [`addLast(e)`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#addLast%28E%29) | [`offerLast(e)`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#offerLast%28E%29) |
+| **Remove** | [`removeFirst()`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#removeFirst%28%29) | [`pollFirst()`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#pollFirst%28%29) | [`removeLast()`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#removeLast%28%29) | [`pollLast()`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#pollLast%28%29) |
+| **Examine** | [`getFirst()`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#getFirst%28%29) | [`peekFirst()`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#peekFirst%28%29) | [`getLast()`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#getLast%28%29) | [`peekLast()`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#peekLast%28%29) |
+
 ### Array &lt;--&gt; List
 
 array --&gt; list
