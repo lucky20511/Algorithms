@@ -1,5 +1,15 @@
 # Special Function & Data Structure
 
+### Reverse Array
+
+```
+for(int i = 0; i < len/2; i++){
+//swap
+}
+```
+
+
+
 ### Deque
 
 |  | Head | Head | Tail | Tail |
