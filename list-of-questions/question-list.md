@@ -116,5 +116,8 @@
 
 55. Reverse Words in a String II -- The same with "Reverse Words in a String" but much easier because of less edge cases.
 
+56. Bitwise AND of Numbers Range -- Need to observe and find out that find the same digits from the left and stop at first different digit.
+
+57. 
 
 
