@@ -126,6 +126,10 @@
 
 60. Ugly Number II -- Need to observe, observe and observe!!!!!! Need to find out the rule within this!
 
-61. 
+61. Palindrome Partitioning -- When drawing the tree flow, find there were lots of revisited node in the tree and can be implemented by bottom up DP. Need to know that the list of array should be created by List&lt;&gt;\[\] list = new List\[len\]
+
+62. 
+
+
 
 
