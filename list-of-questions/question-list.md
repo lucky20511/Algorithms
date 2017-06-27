@@ -124,7 +124,7 @@
 
 59. Restore IP Addresses -- Backtracking. Need to carefully check if substring is valid and try to prune the search tree.
 
-60. Ugly Number II -- Need to observe, observe and observe!!!!!!
+60. Ugly Number II -- Need to observe, observe and observe!!!!!! Need to find out the rule within this!
 
 61. 
 
