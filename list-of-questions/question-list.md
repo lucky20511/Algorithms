@@ -118,6 +118,8 @@
 
 56. Bitwise AND of Numbers Range -- Need to observe and find out that find the same digits from the left and stop at first different digit.
 
-57. 
+57. Search in Rotated Sorted Array -- Find all cases and summarize it 
+
+58. 
 
 
