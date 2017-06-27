@@ -1,5 +1,9 @@
 # Special Function & Data Structure
 
+### BackTracking
+
+When using the object as the accumulated tmp, remember to clean it when leaving a route because of the nature of call-by-reference. If use primitive type like int or String, no need to handle that because of the call-by-value property.
+
 ### Reverse Array
 
 ```
@@ -7,8 +11,6 @@ for(int i = 0; i < len/2; i++){
 //swap
 }
 ```
-
-
 
 ### Deque
 
