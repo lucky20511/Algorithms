@@ -4,6 +4,8 @@
 
 When using the object as the accumulated tmp, remember to clean it when leaving a route because of the nature of call-by-reference. If use primitive type like int or String, no need to handle that because of the call-by-value property.
 
+When solving backtracking related problems, please try to draw the tree path to find all solutions manually with a simple case at the beginning. It is possible that there might be some re-visted nodes so that time complexity can be reduced by DP.
+
 ### Reverse Array
 
 ```
