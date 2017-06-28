@@ -116,7 +116,7 @@
 
 55. Reverse Words in a String II -- The same with "Reverse Words in a String" but much easier because of less edge cases.
 
-56. Bitwise AND of Numbers Range -- Need to observe and find out that find the same digits from the left and stop at first different digit.
+56. Bitwise AND of Numbers Range -- Need to observe and find out that only need to find the same digits from the left and stop at first different digit.
 
 57. Search in Rotated Sorted Array -- Find all cases and summarize it
 
@@ -130,6 +130,8 @@
 
 62. Count Univalue Subtrees -- When doing the recursion by helper, DO NOT put the multiple helper into if\(\) condition cuz it may not be executed, e.g if\(helper\(A\) \|\| helper\(B\)\)
 
-63. 
+63. Add Two Numbers II -- Need to be careful about the carry and the order of list. Since the lists are reversed, we can either 1. reverse them and reverse back or 2.use stacks.
+
+64. 
 
 
