@@ -132,6 +132,8 @@
 
 63. Add Two Numbers II -- Need to be careful about the carry and the order of list. Since the lists are reversed, we can either 1. reverse them and reverse back or 2.use stacks.
 
-64. 
+64. Rotate List -- When rotate the list, except for add a link from tail to head, don't forget to break the link which is linking to new head. Please be careful.
+
+65. 
 
 
