@@ -134,8 +134,9 @@
 
 64. Rotate List -- When rotate the list, except for adding a link from tail to head, don't forget to break the link which is linking to new head. Please be careful.
 
-65. Power of Four -- Observe and analyze the property of the power of four "gradually" and write down all of them one-by-one.
+65. 
+66. Power of Four -- Observe and analyze the property of the power of four "gradually" and write down all of them one-by-one.
 
-66. 
+67. 
 
 
