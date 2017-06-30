@@ -23,7 +23,9 @@ for(int i = 0; i < len/2; i++){
 | **Remove** | [`removeFirst()`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#removeFirst%28%29) | [`pollFirst()`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#pollFirst%28%29) | [`removeLast()`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#removeLast%28%29) | [`pollLast()`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#pollLast%28%29) |
 | **Examine** | [`getFirst()`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#getFirst%28%29) | [`peekFirst()`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#peekFirst%28%29) | [`getLast()`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#getLast%28%29) | [`peekLast()`](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html#peekLast%28%29) |
 
-### Array &lt;--&gt; List
+### Array &lt;--&gt; List  
+
+### \*Only for String or other Object, not for Integer int, Boolean boolean, Character char and other primitive type
 
 array --&gt; list
 
