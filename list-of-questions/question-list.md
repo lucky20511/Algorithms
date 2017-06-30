@@ -138,6 +138,7 @@
 
 66. Power of Four -- Observe and analyze the property of the power of four "gradually" and write down all of them one-by-one.
 
-67. 
+67. Flatten 2D Vector --  When meet complex if else condition, please draw the** tree digram** first for clarification first instead of jumping into the code immediately.
+
 
 
