@@ -2,35 +2,33 @@
 
 ### Graph
 
-**Euler’s Theorem 1    
+**Euler’s Theorem 1      
 **If a graph has any vertices of odd degree, then it CANNOT have an EULER CIRCUIT.  
 AND  
 If a graph is connected and every vertex has even degree, then it has AT LEAST ONE EULER CIRCUIT \(usually more\).
 
-**Euler’s Theorem 2    
+**Euler’s Theorem 2      
 **If a graph has more than 2 vertices of odd degree, then it CANNOT have an EULER PATH.  
 AND  
-If a graph is connected and has exactly 2 vertices of odd degree, then it has AT LEAST ONE EULER PATH \(usually more\). Any such path must start at one of the odd-degree vertices and end at the other.
+If a graph is connected and has exactly 2 vertices of odd degree, then it has AT LEAST ONE EULER PATH\(or Trail\) \(usually more\). Any such path\(or Trail\) must start at one of the odd-degree vertices and end at the other.
 
-**Euler’s Theorem 3    
+**Euler’s Theorem 3      
 **The sum of the degrees of all the vertices of a graph is an even number \(exactly twice the number of edges\).  
 In every graph, the number of vertices of odd degree must be even.
 
-**Euler Path**
+**Euler Path\(or Trail\)**
 
 An Euler path is a path that uses every edge of a graph exactly once.
 
 **Euler Circuit**
 
-An Euler circuit is a circuit that uses every edge of a graph exactly once. 
+An Euler circuit is a circuit that uses every edge of a graph exactly once.
 
-**Euler Path v.s Circuit**
+**Euler Path\(or Trail\) v.s Circuit**
 
-An Euler path starts and ends at **different** vertices. 
+An Euler path starts and ends at **different** vertices.
 
 An Euler circuit starts and ends at the **same** vertex.
-
-
 
 ### Iterator
 
