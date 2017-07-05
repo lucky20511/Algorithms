@@ -142,6 +142,8 @@
 
 68. Reconstruct Itinerary -- Pretty hard problem. Need to understand the Euler path and circuit and its background knowlege first. If there is a circuit, you just walk through the path by lower lexical order and then you can reach every node anyway. However, if there is no circuit but path, means there are exactly "two node" with odd degree\(according to Euler theorem\). If you meet that node and there's no possible road to go ahead, u can just move back till find the another possible path.
 
-69. 
+69. Word Ladder -- We can recognize it as graph question after drawing the diagram. And we choose the BFS instead of DFS because the question is ask about "shortest path". The BFS will be the proper way to get the shortest path. And we also aware that there shouldn't be a "cycle" because the path we want is the "shortest" one. If the cycle must be redundant. So we create a set to keep the record of which nodes we haven't reached. We won't visit a node more than once by that set.
+
+70. 
 
 
