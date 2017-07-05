@@ -140,7 +140,7 @@
 
 67. Flatten 2D Vector --  When meet complex if else condition, please draw the** tree digram** first for clarification first instead of jumping into the code immediately.
 
-68. Reconstruct Itinerary -- Pretty hard problem. Need to understand the Euler path and circuit and its background knowlefge first. If there is a circuit, you just chose the path with lower lexical order and then you can reach walk through every node anyway. However, if there is no circuit but path, means there are exactly "two node" with odd degree. If you meet that node and there's no possible road to go ahead, u can just move back till find the another possible path. That action is just like temporarily regardless of and remove that "two odd-degree nodes". By that, there will be a circuit. So you just walk through the rest of graph and append the previous stocked path at the end.
+68. Reconstruct Itinerary -- Pretty hard problem. Need to understand the Euler path and circuit and its background knowlege first. If there is a circuit, you just walk through the path by lower lexical order and then you can reach every node anyway. However, if there is no circuit but path, means there are exactly "two node" with odd degree\(according to Euler theorem\). If you meet that node and there's no possible road to go ahead, u can just move back till find the another possible path.
 
 69. 
 
