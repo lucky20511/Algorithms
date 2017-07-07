@@ -150,6 +150,7 @@
 
 72. Rearrange String K Distance Apart -- Greedy. Insert char which is valid and with largest count.
 
-73. 
+73. Reorder List -- 
+
 
 
