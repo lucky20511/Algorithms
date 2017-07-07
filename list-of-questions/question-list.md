@@ -150,7 +150,8 @@
 
 72. Rearrange String K Distance Apart -- Greedy. Insert char which is valid and with largest count.
 
-73. Reorder List -- 
+73. Reorder List -- Divide the problem into multiple sub-problems. 1\)Split the list into First half and Second half parts and remember to separate them by null pointer, 2\)Reverse the second part, 3\)Merge two parts
 
+74. 
 
 
