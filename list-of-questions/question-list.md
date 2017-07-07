@@ -144,11 +144,11 @@
 
 69. Word Ladder -- We can recognize it as graph question after drawing the diagram. And we choose the BFS instead of DFS because the question is ask about "shortest path". The BFS will be the proper way to get the shortest path. And we also aware that there shouldn't be a "cycle" because the path we want is the "shortest" one. If the cycle must be redundant. So we create a set to keep the record of which nodes we haven't reached. We won't visit a node more than once by that set.
 
-70. Median of Two Sorted Arrays -- Need to use the two pinters as the "lower bound" of the bigger part to calculate. Two pointer must be in the same part \(bigger part\). 
+70. Median of Two Sorted Arrays -- Need to use the two pinters as the "lower bound" of the bigger part to calculate. Two pointer must be in the same part \(bigger part\).
 
-71. Task yScheduler -- Need to find the rule and solve it in math way.
+71. Task Scheduler -- Need to find the rule and solve it in math way.
 
-72. Rearrange String K Distance Apart -- Greedy. Insert char which is valid and with largest count. 
+72. Rearrange String K Distance Apart -- Greedy. Insert char which is valid and with largest count.
 
 73. 
 
