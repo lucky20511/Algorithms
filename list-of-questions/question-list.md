@@ -152,6 +152,8 @@
 
 73. Reorder List -- Divide the problem into multiple sub-problems. 1\)Split the list into First half and Second half parts and remember to separate them by null pointer, 2\)Reverse the second part, 3\)Merge two parts.  Need to handle the list operations carefully.
 
-74. 
+74. Sort Characters By Frequency -- When it comes to the frequency of element, create &lt;element, freq&gt;, then create &lt;freq, List&lt;element&gt;&gt;. The frequency must be smaller than the len. We can sort it from 0 ~ len or len ~ 0. No need sort. We can select Array rather than Map \(or you can use Map, doesn't matter. We only need a data structure to keep the data for loop up\). Remember to create a array of list by List&lt;Collection&gt;\[\] array = new List\[len\];
+
+75. 
 
 
