@@ -154,6 +154,8 @@
 
 74. Sort Characters By Frequency -- When it comes to the frequency of element, create &lt;element, freq&gt;, then create &lt;freq, List&lt;element&gt;&gt;. The frequency must be smaller than the len. We can sort it from 0 ~ len or len ~ 0. No need sort. We can select Array rather than Map \(or you can use Map, doesn't matter. We only need a data structure to keep the data for loop up\). Remember to create a array of list by List&lt;Collection&gt;\[\] array = new List\[len\];
 
-75. 
+75. Binary Watch -- Need to know how to do the combination and how to handle the terminating condition. In this we can ignore the some bad conditions of backtracking, because they will end by itself.
+
+76. 
 
 
