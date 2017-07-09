@@ -156,6 +156,8 @@
 
 75. Binary Watch -- Need to know how to do the combination and how to handle the terminating condition. In this we can ignore the some bad conditions of backtracking, because they will end by itself.
 
-76. 
+76. Rotate Function -- Find brute force method first which is O\(N^2\) in time complexity. Then try to figure out how to reduce the redundancy between each iteration. Successfully find out how to reduce the redundancy and improve the time complexity to O\(N\).
+
+77. 
 
 
