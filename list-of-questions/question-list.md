@@ -158,6 +158,8 @@
 
 76. Rotate Function -- Find brute force method first which is O\(N^2\) in time complexity. Then try to figure out how to reduce the redundancy between each iteration. Successfully find out how to reduce the redundancy and improve the time complexity to O\(N\).
 
-77. 
+77. Maximum Product of Three Numbers -- Draw the diagram to find the rule.
+
+78. 
 
 
