@@ -164,6 +164,8 @@
 
 79. Maximum Distance in Arrays -- The max distance must come from the first element and last element. Need to figure out how to avoid that the first and last element come from the same list.
 
-80. 
+80. Decode Ways II - First, Backtracking. Second find out the repeated node and the optimal substructure. Optimal substructure might be complex. Try to find the whole optimal substructure in all cases.   
+
+81. 
 
 
