@@ -160,6 +160,9 @@
 
 77. Maximum Product of Three Numbers -- Draw the diagram to find the rule. By observation, found that we need the max and min for only one element and max and min for two elements and max for three elements. Update them from three to one.
 
-78. 
+78. Count Numbers with Unique Digits -- Math problem of Combination.
+
+79. Maximum Distance in Arrays -- The max distance must come from the first element and last element.
+
 
 
