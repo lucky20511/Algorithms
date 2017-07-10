@@ -162,7 +162,7 @@
 
 78. Count Numbers with Unique Digits -- Math problem of Combination.
 
-79. Maximum Distance in Arrays -- The max distance must come from the first element and last element.
+79. Maximum Distance in Arrays -- The max distance must come from the first element and last element. Need to figure out how to avoid that the first and last element come from the same list.
 
 80. 
 
