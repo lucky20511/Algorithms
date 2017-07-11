@@ -170,6 +170,8 @@
 
 82. Relative Ranks -- Need to figure out how to get the original index of each element after sorting. It can be achieved by sorting the value and original index together but only regarding the value to sort.
 
-83. 
+83. Shortest Word Distance -- Need to find out possible edge case first! Need to understand why the time complexity can be reduced from O\(N^2\) to O\(N\).
+
+84. 
 
 
