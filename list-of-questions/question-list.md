@@ -1,4 +1,4 @@
-#  Good Question List
+# Good Question List
 
 1. Excel Sheet Column Title  -- Observation of Regularity
 
@@ -166,6 +166,10 @@
 
 80. Decode Ways II - First, Backtracking. Second find out the repeated node and the optimal substructure. Optimal substructure might be complex. Try to find the whole optimal substructure in all cases. Then, fill up the initial conditions. Finally solve this problem in bottom-up way.
 
-81. 
+81. Linked List Random Node -- **Reservoir Sampling!**
+
+82. Relative Ranks -- Need to figure out how to get the original index of each element after sorting. It can be achieved by sorting the value and original index together but only regarding the value to sort.
+
+83. 
 
 
