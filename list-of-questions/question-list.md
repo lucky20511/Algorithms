@@ -172,9 +172,9 @@
 
 83. Shortest Word Distance -- Need to find out possible edge case first! Need to understand why the time complexity can be reduced from O\(N^2\) to O\(N\).
 
-84. Diagonal Traverse -- 
+84. Diagonal Traverse -- Observe the rule with patient and need to write the any idea down.
 
-85. Diameter of Binary Tree -- 
+85. Diameter of Binary Tree -- observe \(1\) when to update the return value, \(2\) what information need to be returned to its parent node and \(3\) terminating conditions.
 
 86. 
 
