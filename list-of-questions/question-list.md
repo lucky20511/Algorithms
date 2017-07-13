@@ -172,6 +172,10 @@
 
 83. Shortest Word Distance -- Need to find out possible edge case first! Need to understand why the time complexity can be reduced from O\(N^2\) to O\(N\).
 
-84. 
+84. Diagonal Traverse -- 
+
+85. Diameter of Binary Tree -- 
+
+86. 
 
 
