@@ -176,6 +176,8 @@
 
 85. Diameter of Binary Tree -- observe \(1\) when to update the return value, \(2\) what information need to be returned to its parent node and \(3\) terminating conditions.
 
-86. 
+86. Largest Divisible Subset -- Almost the same as Longest Increasing Sequence \(LIS\) problem. First draw the searching tree diagram. Second, try to observe and get some rule among that. Then find out the "concept" optimal substructure. Finally, think about how to implement the bottom up method and what data structure we need to achieve that.
+
+87. 
 
 
