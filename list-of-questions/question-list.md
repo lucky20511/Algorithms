@@ -178,6 +178,10 @@
 
 86. Largest Divisible Subset -- Almost the same as Longest Increasing Sequence \(LIS\) problem. First draw the searching tree diagram. Second, try to observe and get some rule among that. Then find out the "concept" optimal substructure. Finally, think about how to implement the bottom up method and what data structure we need to achieve that.
 
-87. 
+87. Shortest Word Distance II -- 
+
+88. Binary Tree Zigzag Level Order Traversal -- 
+
+89. 
 
 
