@@ -178,15 +178,15 @@
 
 86. Largest Divisible Subset -- Almost the same as Longest Increasing Sequence \(LIS\) problem. First draw the searching tree diagram. Second, try to observe and get some rule among that. Then find out the "concept" optimal substructure. Finally, think about how to implement the bottom up method and what data structure we need to achieve that.
 
-87. Shortest Word Distance II --
+87. Shortest Word Distance II -- Organize the information into data structure for repeated use. Although it cannot reduce the time complexity, it can save some time.
 
-88. Binary Tree Zigzag Level Order Traversal --
+88. Binary Tree Zigzag Level Order Traversal -- Try to think the original one and focus only on the difference between them first. Then try to solve the problem with the least difference from the original solution.
 
-89. Palindrome Permutation --
+89. Palindrome Permutation -- Observe the rule, and figure out a solution to that. Then try to figure out how to reduce the space complexity of that.
 
-90. Generalized Abbreviation --
+90. Generalized Abbreviation -- Backtracking first and check if there are any space for DP.
 
-91. Delete Node in a BST -- 
+91. Delete Node in a BST -- Not Easy. Try to solve in recursion way.
 
 92. 
 
