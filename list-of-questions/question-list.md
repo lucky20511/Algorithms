@@ -190,8 +190,10 @@
 
 92. Sum Root to Leaf Numbers -- Need to observe the terminating problem carefully and write them down.
 
-93. Find Mode in Binary Search Tree -- Need to realize that the node with same val will be consecutive together. It is also true when traverse it in-order like 1222333444555. Need to figure out to use ignorer traversal.
+93. Find Mode in Binary Search Tree -- Need to realize that the node with same val will be consecutive together. It is also true when traverse it in-order like 1222333444555. Need to figure out to use "inorer" traversal. Try to think about "BST & sorted --&gt; inorder traversal".  Moreover, need to know the difference between list = new ArrayList&lt;&gt;\(\) and list.clear.
 
-94. 
+94. Next Greater Element I -- Try to come up with a brute force method first, even though this final solution is a little bit irrelevant to the brute force method. Try to reduce the time complexity from O\(N^2\) to O\(N logN\) or O\(N\). Finally, figure out a solution which only needs to walk through all elements once and store them in to data structure which can provide O\(1\) look up. Then just use this data structure to get the solution for each element of findNums\(nums1\).
+
+95. 
 
 
