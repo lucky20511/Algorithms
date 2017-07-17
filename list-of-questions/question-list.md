@@ -190,6 +190,8 @@
 
 92. Sum Root to Leaf Numbers -- Need to observe the terminating problem carefully and write them down.
 
-93. 
+93. Find Mode in Binary Search Tree -- Need to realize that the node with same val will be consecutive together. It is also true when traverse it in-order like 1222333444555. Need to figure out to use ignorer traversal.
+
+94. 
 
 
