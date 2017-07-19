@@ -194,6 +194,7 @@
 
 94. Next Greater Element I -- Try to come up with a brute force method first, even though this final solution is a little bit irrelevant to the brute force method. Try to reduce the time complexity from O\(N^2\) to O\(N logN\) or O\(N\). Finally, figure out a solution which only needs to walk through all elements once and store them in to data structure which can provide O\(1\) look up. Then just use this data structure to get the solution for each element of findNums\(nums1\).
 
-95. 
+95. Union Find  --  Evaluate Division & Course Schedule I II and related core idea and problem.
+
 
 
