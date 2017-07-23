@@ -194,7 +194,14 @@
 
 94. Next Greater Element I -- Try to come up with a brute force method first, even though this final solution is a little bit irrelevant to the brute force method. Try to reduce the time complexity from O\(N^2\) to O\(N logN\) or O\(N\). Finally, figure out a solution which only needs to walk through all elements once and store them in to data structure which can provide O\(1\) look up. Then just use this data structure to get the solution for each element of findNums\(nums1\).
 
-95. Union Find  --  Evaluate Division & Course Schedule I II and related core idea and problem.
+95. Evaluate Division  --  Using the Similar idea as the Union find
 
+96. Course Schedule I  -- It's a problem of how to detect a cycle in a directed problem. One solution is traverse this directed graph by topological sorting and see if we can traverse each of node. It is kind of BFS method. The other DFS method is doing the backtracking traversal for start from each node. And for each node, try to do the DFS and see if there is a revisited in nodes in any searching line. Remember to reset the condition when leaving a searching line during backtracking.
+
+97. Course Schedule II -- It is exactly a problem of topological sorting.
+
+98. Arithmetic Slices -- Using two pointers but needs to know the timing of updating each status.
+
+99. 
 
 
