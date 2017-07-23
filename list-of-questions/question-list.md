@@ -200,8 +200,10 @@
 
 97. Course Schedule II -- It is exactly a problem of topological sorting.
 
-98. Arithmetic Slices -- Using two pointers but needs to know the timing of updating each status.
+98. Course Schedule III -- 
 
-99. 
+99. Arithmetic Slices -- Using two pointers but needs to know the timing of updating each status.
+
+100. 
 
 
