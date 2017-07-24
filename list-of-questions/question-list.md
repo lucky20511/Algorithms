@@ -206,9 +206,9 @@
 
 100. Design Hit Counter -- Need to know we only need to use array with length 300 to keep the data within 300 sec. Any data will probably be removed after 300 second. Assign value like array\[time%300\];
 
-101. Wiggle Subsequence -- Need to observe the rules by brute force method backtracking searching tree. Then you will find out there are lots of useless path. You only needs to search one path. Also need to find out the initial direction is decided by the graph already. Please need to know how to prove these things above. 
+101. Wiggle Subsequence -- Need to observe the rules by brute force method backtracking searching tree. Then you will find out there are lots of useless path. You only needs to search one path. Also need to find out the initial direction is decided by the graph already. Please need to know how to prove these things above.
 
-102. Valid Triangle Number -- Very beautiful problem. The brute force method would be N^3. After doing the sorting, we try to figure out how to reduce the time complexity to N^2 by the property of sorted array. We understand the conditions make these to length a triangle is the "sum of any two side is larger than the other". Now the array is sorted so we can rephrase it to be the sum of two smaller side is larger than the biggest one". So given a biggest side we need to find the number of all possible two sides whose sum are larger than that biggest side. The idea is very similar as two sum. 
+102. Valid Triangle Number -- Very beautiful problem. The brute force method would be N^3. After doing the sorting, we try to figure out how to reduce the time complexity to N^2 by the property of sorted array. We understand the conditions make these to length a triangle is the "**sum of any two sides is larger than the other**". Now the array is sorted so we can rephrase it to be the "**sum of two smaller side is larger than the biggest one**". So given a biggest side we need to find the number of all possible two sides whose sum are larger than that biggest side. The idea is very similar as **two sum**.
 
 103. Wiggle Sort II --
 
