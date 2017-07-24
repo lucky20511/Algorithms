@@ -206,6 +206,13 @@
 
 100. Design Hit Counter --
 
-101. 
+101. Wiggle Subsequence --
+
+102. Valid Triangle Number -- 
+
+103. Wiggle Sort II -- 
+
+104. Maximum Average Subarray I -- 
+
 
 
