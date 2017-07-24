@@ -208,11 +208,14 @@
 
 101. Wiggle Subsequence --
 
-102. Valid Triangle Number -- 
+102. Valid Triangle Number --
 
-103. Wiggle Sort II -- 
+103. Wiggle Sort II --
 
-104. Maximum Average Subarray I -- 
+104. Maximum Average Subarray I --
 
+105. Maximum Average Subarray II --
+
+106. 
 
 
