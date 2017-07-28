@@ -210,12 +210,17 @@
 
 102. Valid Triangle Number -- Very beautiful problem. The brute force method would be N^3. After doing the sorting, we try to figure out how to reduce the time complexity to N^2 by the property of sorted array. We understand the conditions make these to length a triangle is the "**sum of any two sides is larger than the other side**". Now the array is sorted so we can rephrase it to be the "**sum of two smaller side is larger than the biggest one**". So given a biggest side we need to find the number of all possible two sides whose sum are larger than that biggest side. The idea is very similar as **two sum**.
 
-103. Wiggle Sort II --
+103. Wiggle Sort II -- The original idea is divide the data into two groups, small and big. Put the small into even or odd and put the big into another. However, we need to take care of there might be multiple numbers with the same value as median. To achieve this, the core idea is that divide the data into three parts: \(1\) &gt; median, \(2\) &lt; median and \(3\) = median. There might be two main task \(1\) how to find the median and \(2\) how to arrange those data for each three parts. For \(1\) we could use quick select to easily get the Kth wanted value from a array in O\(n\). For \(2\), we want to arrange the data by putting &lt; median part starts from the head of even position and putting &lt; median starts from the tail of even position and leave the =median to the rest empty position. Further, we can transform the index of   0123456 to --&gt; 0246135, then task of arrangement would become 3 way partition \(sort colors\) problem which is quite straightforward.
 
 104. Maximum Average Subarray I -- Very easy. Just observe.
 
-105. Maximum Average Subarray II --
+105. Maximum Average Subarray II -- Still don't know the why the condition of remove the index data store in the queue from the tail.
 
-106. 
+106. Longest Palindromic Subsequence -- Unlike other dp problem,tThe searching diagram is very special. Need to know how to draw the searching diagram of this kind of problem.
+
+
+
+
+
 
 
