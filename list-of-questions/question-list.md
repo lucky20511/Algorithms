@@ -218,7 +218,8 @@
 
 106. Longest Palindromic Subsequence -- Unlike other dp problem,tThe searching diagram is very special. Need to know how to draw the searching diagram of this kind of problem.
 
-107. Path Sum III -- When analyzing the return conditions, we discover that we might needs to kind of recursion function to achieve this, First is count the number of path  including current root. Second is count the number of path according to current value, if meet the root.val is current left target, then +1 and keep counting the left and right. The second function is regardless of the start node of this path, just count. But First need to make sure we count all path started from each node. So this kind of multiple combination recursion function might be very complex for me. Need more practice on multiple combination recursion problem.
+107. Path Sum III -- When analyzing the return conditions, we discover that we might needs to kind of recursion function to achieve this, First is count the number of path  including current root. Second is count the number of path according to current value, if meet the root.val is current left target, then +1 and keep counting the left and right. The second function is regardless of the start node of this path, just count. But First need to make sure we count all path started from each node. So this kind of multiple combination recursion function might be very complex for me. Need more practice on **multiple combination recursion problem**. The solution above is with the O\(N^2\) in time complexity. Try to reduce it to lower. Then we have the idea of prefix sum. But the path needs to be contiguous and from top to bottom, there we need to use \(1\)preorder, and \(2\) remove all the current node information when leaving this branch and ready to return so that the path information from top to bottom would only be left. And if we meet the same prefix sum value, just increment the value with the same prefix key.
 
+108. 
 
 
