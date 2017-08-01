@@ -230,6 +230,8 @@
 
 112. Unique Path II -- Similar to above problem. But need to notice that when current position is obstacle, set it to zero anyway.
 
-113. 
+113. Construct the Rectangle -- very simple. Notice this: try to use "mid &lt; area/mid" not to use "mid\*mid &lt; area" which is easy to overflow.   why???????????
+
+114. 
 
 
