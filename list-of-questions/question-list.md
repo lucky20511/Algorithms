@@ -220,11 +220,16 @@
 
 107. Path Sum III -- When analyzing the return conditions, we discover that we might needs to kind of recursion function to achieve this, First is count the number of path  including current root. Second is count the number of path according to current value, if meet the root.val is current left target, then +1 and keep counting the left and right. The second function is regardless of the start node of this path, just count. But First need to make sure we count all path started from each node. So this kind of multiple combination recursion function might be very complex for me. Need more practice on **multiple combination recursion problem**. The solution above is with the O\(N^2\) in time complexity. Try to reduce it to lower. Then we have the idea of prefix sum. But the path needs to be contiguous and from top to bottom, there we need to use \(1\)preorder, and \(2\) remove all the current node information when leaving this branch and ready to return so that the path information from top to bottom would only be left. And if we meet the same prefix sum value, just increment the value with the same prefix key.
 
-108. Serialize and Deserialize BST -- We need to put the root in the first place, so there are only two methods, \(1\) BFS  and  \(2\) DFS 
+108. Serialize and Deserialize BST -- We need to put the root in the first place, so there are only two methods, \(1\) BFS  and  \(2\) DFS
 
 109. Mini Parser -- Observe the rule and repeated part. Divide the problem into small subproblems.
 
-110. 
-111. 
+110. Pacific Atlantic Water Flow -- Observe we need to  do DFS search from pacific and atlantic. Then find the intersection area. Start from pacific, and mark the visit array to 'p'. Then start from atlantic and mark the visit to 'a'. If meet the 'p' when doing 'a', it means current node is intersection. Add that node to return list and change the visit to 'a'. Keep doing DFS till the end.
+
+111. Unique Path -- Find the revisited node. Try DP.  Find the optimal substructure so use bottom-up. Here we further reduce the space complexity from O\(N^2\) to O\(N\).
+
+112. Unique Path II -- Similar to above problem. But need to notice that when current position is obstacle, set it to zero anyway.
+
+113. 
 
 
