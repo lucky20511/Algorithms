@@ -232,7 +232,8 @@
 
 113. Construct the Rectangle -- very simple. Notice this: try to use "mid &lt; area/mid" not to use "mid\*mid &lt; area" which is easy to overflow.   why???????????
 
-114. Nth Digit -- 
+114. Nth Digit -- if you want to find out which groups and which position current number N belongs, you can use \(N-1\)/size to find out the group and \(N-1\)%size to find out the position.
 
+115. 
 
 
