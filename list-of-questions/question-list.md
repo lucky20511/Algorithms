@@ -232,6 +232,7 @@
 
 113. Construct the Rectangle -- very simple. Notice this: try to use "mid &lt; area/mid" not to use "mid\*mid &lt; area" which is easy to overflow.   why???????????
 
-114. 
+114. Nth Digit -- 
+
 
 
