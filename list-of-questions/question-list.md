@@ -194,7 +194,7 @@
 
 94. Next Greater Element I -- Try to come up with a brute force method first, even though this final solution is a little bit irrelevant to the brute force method. Try to reduce the time complexity from O\(N^2\) to O\(N logN\) or O\(N\). Finally, figure out a solution which only needs to walk through all elements once and store them in to data structure which can provide O\(1\) look up. Then just use this data structure to get the solution for each element of findNums\(nums1\).
 
-95. Evaluate Division  --  Using the Similar idea as the Union find
+95. Evaluate Division  --  Using the Similar idea as the Union find. Find the common divisor.
 
 96. Course Schedule I  -- It's a problem of how to detect a cycle in a directed problem. One solution is traverse this directed graph by topological sorting and see if we can traverse each of node. It is kind of BFS method. The other DFS method is doing the backtracking traversal for start from each node. And for each node, try to do the DFS and see if there is a revisited in nodes in any searching line. Remember to reset the condition when leaving a searching line during backtracking.
 
@@ -236,7 +236,7 @@
 
 115. 4 sum II -- The brute force method would be O\(N^4\). Figure the difference between 4 sum and 4 sum II. In 4 sum II, each value is separate in 4 different 4 set so the selection of each value wouldn't affect other, their for we could divide N^4 to N^2 \* N^2  and the latter could be improved by using the hashmap so that the compleixty N^2 \* N^2 would be N^2 \* 1 which is O\(N^2\)
 
-116. Range Sum Query - Mutable -- 
+116. Range Sum Query - Mutable --
 
 
 
