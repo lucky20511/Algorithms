@@ -236,6 +236,7 @@
 
 115. 4 sum II -- The brute force method would be O\(N^4\). Figure the difference between 4 sum and 4 sum II. In 4 sum II, each value is separate in 4 different 4 set so the selection of each value wouldn't affect other, their for we could divide N^4 to N^2 \* N^2  and the latter could be improved by using the hashmap so that the compleixty N^2 \* N^2 would be N^2 \* 1 which is O\(N^2\)
 
-116. 
+116. Range Sum Query - Mutable -- 
+
 
 
