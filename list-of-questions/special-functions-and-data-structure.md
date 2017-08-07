@@ -84,17 +84,17 @@ HashSet --&gt; cannot know the index
 
 There are two distinct notions of connectivity in a [directed graph](http://mathworld.wolfram.com/DirectedGraph.html). A [directed graph](http://mathworld.wolfram.com/DirectedGraph.html) is [weakly connected](http://mathworld.wolfram.com/WeaklyConnectedDigraph.html) if there is an undirected path between any pair of vertices, and [strongly connected](http://mathworld.wolfram.com/StronglyConnectedDigraph.html) if there is a directed path between every pair of vertices \(Skiena 1990, p. 173\). The following tables summarized the number of weakly and strongly connected digraphs on n=1, 2, ... nodes. The 8 weakly but not strongly connected digraphs on three nodes are illustrated above.
 
-**Euler’s Theorem 1                                                              
+**Euler’s Theorem 1                                                                
 **If a graph has any vertices of odd degree, then it CANNOT have an EULER CIRCUIT.  
 AND  
 If a graph is **connected** and every vertex has even degree, then it has AT LEAST ONE EULER CIRCUIT \(usually more\).
 
-**Euler’s Theorem 2                                                              
+**Euler’s Theorem 2                                                                
 **If a graph has more than 2 vertices of odd degree, then it CANNOT have an EULER PATH.  
 AND  
 If a graph is **connected** and has exactly 2 vertices of odd degree \(NOTE: or less\), then it has AT LEAST ONE EULER PATH\(or Trail\) \(usually more\). Any such path\(or Trail\) must start at one of the odd-degree vertices and end at the other.
 
-**Euler’s Theorem 3                                                              
+**Euler’s Theorem 3                                                                
 **The sum of the degrees of all the vertices of a graph is an even number \(exactly twice the number of edges\).  
 In every graph, the number of vertices of odd degree must be even.
 
@@ -242,6 +242,23 @@ The idea behind a Map is to be able to find an object faster than a linear searc
 hashCode\(\)
 
 equals\(\)
+
+### Modulus
+
+Mathematically Speaking, following both are correct:
+
+```
+-13 % 64 = -13 (on modulus 64)  
+-13 % 64 = 51 (on modulus 64)
+```
+
+One of the options had to be chosen by Java language developers and they chose:
+
+**the sign of the result equals the sign of the dividend.**
+
+Says it in Java specs:
+
+[https://docs.oracle.com/javase/specs/jls/se7/html/jls-15.html\#jls-15.17.3](https://docs.oracle.com/javase/specs/jls/se7/html/jls-15.html#jls-15.17.3)
 
 ### Comparator by Lambda
 
