@@ -5,7 +5,9 @@
 * [Introduction](README.md)
 * [Question List](list-of-questions/question-list.md)
 * [Special Functions and Data Structure](list-of-questions/special-functions-and-data-structure.md)
+* [Hard Question](hard-question.md)
 * [System Design Practice](system-design-practice.md)
+
 
 ## Line
 
