@@ -251,6 +251,23 @@ hashCode\(\)
 
 equals\(\)
 
+### Modulus
+
+Mathematically Speaking, following both are correct:
+
+```
+-13 % 64 = -13 (on modulus 64)  
+-13 % 64 = 51 (on modulus 64)
+```
+
+One of the options had to be chosen by Java language developers and they chose:
+
+**the sign of the result equals the sign of the dividend.**
+
+Says it in Java specs:
+
+[https://docs.oracle.com/javase/specs/jls/se7/html/jls-15.html\#jls-15.17.3](https://docs.oracle.com/javase/specs/jls/se7/html/jls-15.html#jls-15.17.3)
+
 ### Comparator by Lambda
 
 1-line: _**expression lambda **_\(in which braces are omitted\)
