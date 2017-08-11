@@ -8,7 +8,9 @@ Shortest Repeated Substring -- KMP
 
 Inorder Binary Tree Traversal -- Morris
 
-Maximum Size Subarray Sum Equals k -- 
+Maximum Size Subarray Sum Equals k --
 
+Remove Invalid Parentheses -- 
 
+Binary Tree Vertical Order Traversal -- 
 
