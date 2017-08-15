@@ -10,7 +10,13 @@ Inorder Binary Tree Traversal -- Morris
 
 Maximum Size Subarray Sum Equals k --
 
-Remove Invalid Parentheses -- 
+Remove Invalid Parentheses --
 
-Binary Tree Vertical Order Traversal -- 
+Binary Tree Vertical Order Traversal --
+
+Subtree of Another Tree -- 
+
+Regular Expression Matching -- 
+
+
 
