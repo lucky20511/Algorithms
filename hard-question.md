@@ -12,11 +12,11 @@ Maximum Size Subarray Sum Equals k --
 
 Remove Invalid Parentheses --
 
-Binary Tree Vertical Order Traversal --
+Binary Tree Vertical Order Traversal -- be careful about the order
 
-Subtree of Another Tree -- 
+Subtree of Another Tree -- 2 layer Recursion problem
 
-Regular Expression Matching -- 
+Regular Expression Matching --
 
-
+Exclusive Time of Functions -- 
 
