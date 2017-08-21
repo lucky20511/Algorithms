@@ -22,7 +22,7 @@ Exclusive Time of Functions --
 
 Read N Characters Given Read4 II - Call multiple times -- need to handle the condition carefully
 
-Expression Add Operators -- 
+Expression Add Operators --
 
-
+Minimum Window Substring -- Need to know when to create counter and when to decrease the counter and when the valid and invalid are.
 
