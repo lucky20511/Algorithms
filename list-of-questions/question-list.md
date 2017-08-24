@@ -126,7 +126,7 @@
 
 60. Ugly Number II -- Need to observe, observe and observe!!!!!! Need to find out the rule within this!
 
-61. Palindrome Partitioning -- When drawing the tree flow, find there were lots of revisited node in the tree and can be implemented by bottom up DP. Need to know that the list of array should be created by List&lt;&gt;\[\] list = new List\[len\]
+61. **Palindrome Partitioning** -- When drawing the tree flow, find there were lots of revisited node in the tree and can be implemented by bottom up DP. Need to know that the list of array should be created by List&lt;&gt;\[\] list = new List\[len\]. However, the DP solution is with huge space complexity. The backtracking with top down method is relatively with much lower space complexity. For this problem, **backtracking** seems to be a better choice here.
 
 62. Count Univalue Subtrees -- When doing the recursion by helper, DO NOT put the multiple helper into if\(\) condition cuz it may not be executed, e.g if\(helper\(A\) \|\| helper\(B\)\)
 
