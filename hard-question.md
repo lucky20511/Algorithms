@@ -30,5 +30,7 @@ Path Sum III --
 
 Subsets --
 
-Validate Binary Search Tree -- 
+Validate Binary Search Tree --
+
+Word Search -- Good question to practice the backtracking
 
