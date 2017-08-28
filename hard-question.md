@@ -28,7 +28,7 @@ Minimum Window Substring -- Need to know when to create counter and when to decr
 
 Path Sum III --
 
-Subsets --
+Subsets -- Needs to compare with the subset,  subset II, word search
 
 Validate Binary Search Tree --
 
