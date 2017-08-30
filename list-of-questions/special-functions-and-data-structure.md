@@ -255,6 +255,15 @@ replace\("str",""\)
 
 indexOf\("str"\)
 
+### Character ASCII Code value
+
+Transfer between int and char
+
+```
+int code = (int)Ch;
+char Ch = (char)code;
+```
+
 ### HashMap
 
 [http://www.programcreek.com/2011/07/java-equals-and-hashcode-contract/](http://www.programcreek.com/2011/07/java-equals-and-hashcode-contract/)
