@@ -36,7 +36,7 @@ Word Search -- Good question to practice the backtracking
 
 Insert Delete GetRandom O\(1\) --
 
-Target Sum -- need to know what is the initial condition and the final position. Not easy.
+Target Sum -- need to know what is the initial condition and the final position. Not easy
 
-
+H-index -- which is very similar with Amazing Number
 
