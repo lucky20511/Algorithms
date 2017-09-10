@@ -40,3 +40,11 @@ Target Sum -- need to know what is the initial condition and the final position.
 
 H-index -- which is very similar with Amazing Number
 
+Remove Duplicates from Sorted Array I & II -- need to handle the 2 ptr well
+
+Graph Valid Tree -- need to know all possible Union-Find methods
+
+
+
+
+
