@@ -34,7 +34,5 @@ Validate Binary Search Tree --
 
 Word Search -- Good question to practice the backtracking
 
-Insert Delete GetRandom O\(1\) -- 
-
-
+Insert Delete GetRandom O\(1\) -- How to delete the element in array in O\(1\) for this random question
 
