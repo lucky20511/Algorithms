@@ -240,7 +240,8 @@
 
 117. Find K closest Elements -- There are three possible solutions: \(1\) O\(NLog N\), \(2\) O\(N\) \(3\) O\(Log N\). For the third binary search solution, need to think about how to apply binary search for following situations \(1\) 1 2 3 4 5 \(2\) 5 4 3 2 1 \(3\) 3 2 1 2 3
 
-118. 
+118. Frog Jump -- Cannot do it in bottom up method. So solve it top-down.
+
 119. 
 120. 
 
