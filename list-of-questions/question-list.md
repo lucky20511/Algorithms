@@ -242,7 +242,8 @@
 
 118. Frog Jump -- Cannot do it in bottom up method. So solve it top-down.
 
-119. 
+119. Backpack\(LintCode\) -- be careful the hole because the array is not sorted.
+
 120. 
 
 
