@@ -244,6 +244,8 @@
 
 119. Backpack\(LintCode\) -- be careful the hole because the array is not sorted.
 
-120. 
+120. Largest Palindrome Product -- Need to come up with the brute force method
+
+121. 
 
 
