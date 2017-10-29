@@ -246,6 +246,7 @@
 
 120. Largest Palindrome Product -- Need to come up with the brute force method
 
-121. 
+121. Equal Tree Partition -- divide the problem into subproblems and solve them.
+
 
 
