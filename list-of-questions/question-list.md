@@ -248,15 +248,15 @@
 
 121. Equal Tree Partition -- divide the problem into subproblems and solve them.
 
-122. word ladder II -- Need to be very careful about the when the searching will terminate. \(run out of words or reach the end\)
+122. word ladder II -- Need to be very careful about when the searching will terminate. \(run out of words or reach the end\)
 
 123. Second Minimum Node In a Binary Tree -- Need to generalize the behavior first
 
-124. Partition to K Equal Sum Subsets -- 
+124. Partition to K Equal Sum Subsets --
 
-125. Minimum Window Subsequence -- 
+125. Minimum Window Subsequence --
 
-126. Number of Atoms -- 
+126. Number of Atoms --
 
 
 
