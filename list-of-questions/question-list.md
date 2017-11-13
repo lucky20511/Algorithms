@@ -252,13 +252,13 @@
 
 123. Second Minimum Node In a Binary Tree -- Need to generalize the behavior first
 
-124. **Partition to K Equal Sum Subsets** --
+124. **Partition to K Equal Sum Subsets** -- Need to figure out **How** to do the **Recursion**
 
 125. **Minimum Window Subsequence** --
 
 126. Number of Atoms --
 
-127. Maximum Length of Repeated Subarray -- 
+127. Maximum Length of Repeated Subarray --
 
 
 
