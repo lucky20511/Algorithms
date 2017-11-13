@@ -254,7 +254,7 @@
 
 124. **Partition to K Equal Sum Subsets** -- Need to figure out **How** to do the **Recursion. Then, try to speed up by pruning.**
 
-125. **Minimum Window Subsequence** --
+125. **Minimum Window Subsequence** -- Need to figure out how to do the recursion.
 
 126. Number of Atoms --
 
