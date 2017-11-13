@@ -252,9 +252,9 @@
 
 123. Second Minimum Node In a Binary Tree -- Need to generalize the behavior first
 
-124. Partition to K Equal Sum Subsets --
+124. **Partition to K Equal Sum Subsets** --
 
-125. Minimum Window Subsequence --
+125. **Minimum Window Subsequence** --
 
 126. Number of Atoms --
 
