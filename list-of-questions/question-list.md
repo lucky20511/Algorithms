@@ -252,9 +252,9 @@
 
 123. Second Minimum Node In a Binary Tree -- Need to generalize the behavior first
 
-124. **Partition to K Equal Sum Subsets** -- Need to figure out **How** to do the **Recursion**
+124. **Partition to K Equal Sum Subsets** -- Need to figure out **How** to do the **Recursion. Then, try to optimize.**
 
-125. **Minimum Window Subsequence** --
+125. **Minimum Window Subsequence** -- 
 
 126. Number of Atoms --
 
