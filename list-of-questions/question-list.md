@@ -234,7 +234,7 @@
 
 114. Nth Digit -- if you want to find out which groups and which position current number N belongs, you can use \(N-1\)/size to find out the group and \(N-1\)%size to find out the position.
 
-115. 4 sum II -- The brute force method would be O\(N^4\). Figure the difference between 4 sum and 4 sum II. In 4 sum II, each value is separate in 4 different 4 set so the selection of each value wouldn't affect other, their for we could divide N^4 to N^2 \* N^2  and the latter could be improved by using the hashmap so that the compleixty N^2 \* N^2 would be N^2 \* 1 which is O\(N^2\)
+115. 4 sum II -- The brute force method would be O\(N^4\). Figure the difference between 4 sum and 4 sum II. In 4 sum II, each value is separate in 4 different 4 set so the selection of each value wouldn't affect other, therefore, we could divide N^4 to N^2 \* N^2  and the latter could be improved by using the hashmap so that the compleixty N^2 \* N^2 would be N^2 \* 1 which is O\(N^2\)
 
 116. Range Sum Query - Mutable -- The normal method would be O\(N\) in time complexity. Try to divide and distribute the computation cost by using segment Tree.
 
@@ -261,10 +261,6 @@
 127. Maximum Length of Repeated Subarray --
 
 128. My Calendar II -- Need to think about three situation of overlap of two intervals.
-
-
-
-
 
 
 
