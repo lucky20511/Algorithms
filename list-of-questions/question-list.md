@@ -266,7 +266,9 @@
 
 130. **Longest Common Subsequence** -- Need to figure out how to do the recursion. \(**Eclipse**\)
 
-131. My Calendar II -- Need to think about three situation of overlap of two intervals
+131. **Longest Palindromic Subsequence** -- Need to figure out how to do the recursion.
+
+132. My Calendar II -- Need to think about three situation of overlap of two intervals
 
 
 
