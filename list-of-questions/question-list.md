@@ -264,7 +264,9 @@
 
 129. **Distinct Subsequences** -- Need to think about how to do the recursion.
 
-130. My Calendar II -- Need to think about three situation of overlap of two intervals
+130. **Longest Common Subsequence** -- Need to figure out how to do the recursion. \(**Eclipse**\)
+
+131. My Calendar II -- Need to think about three situation of overlap of two intervals
 
 
 
