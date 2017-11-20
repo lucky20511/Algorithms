@@ -260,11 +260,11 @@
 
 127. **Maximum Length of Repeated Subarray **-- Need to figure out how to do the recursion.
 
-128. Maximum Length of Repeated Subarray -- Need to figure our hot to do the recursion
+128. Maximum Length of Repeated Subarray -- Need to figure our how to do the recursion
 
 129. My Calendar II -- Need to think about three situation of overlap of two intervals.
 
-130. Distinct Subsequences -- 
+130. Distinct Subsequences -- Need to think about how to do the recursion.
 
 131. 
 
