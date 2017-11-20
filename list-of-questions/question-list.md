@@ -252,17 +252,19 @@
 
 123. Second Minimum Node In a Binary Tree -- Need to generalize the behavior first
 
-124. **Partition to K Equal Sum Subsets** -- Need to figure out **How** to do the **Recursion. Then, try to speed up by pruning.**
+124. Number of Atoms -- break down the complex task into few simple sub-tasks.
 
-125. **Minimum Window Subsequence** -- Need to figure out how to do the recursion.
+125. **Partition to K Equal Sum Subsets** -- Need to figure out **How** to do the **Recursion. Then, try to speed up by pruning.**
 
-126. **Maximum Length of Repeated Subarray **-- Need to figure out how to do the recursion.
+126. **Minimum Window Subsequence** -- Need to figure out how to do the recursion.
 
-127. Number of Atoms --
+127. **Maximum Length of Repeated Subarray **-- Need to figure out how to do the recursion.
 
-128. Maximum Length of Repeated Subarray --
+128. Maximum Length of Repeated Subarray -- Need to figure our hot to do the recursion
 
 129. My Calendar II -- Need to think about three situation of overlap of two intervals.
 
+130. 
+131. 
 
 
