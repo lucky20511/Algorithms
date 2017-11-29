@@ -1,4 +1,4 @@
-# System Design Practice
+# Weakness of Algorithm
 
 1. String DP
 2. The speed of DP
