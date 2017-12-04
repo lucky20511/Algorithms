@@ -10,8 +10,7 @@
    [https://www.youtube.com/watch?v=2raV0H9KqY8](https://www.youtube.com/watch?v=2raV0H9KqY8)
 6. Minimum Spanning Tree
 7. Morris Traversal Tree
-
-
-
+8. Suffix Tree Application 5 – Longest Common Substring http://www.geeksforgeeks.org/suffix-tree-application-5-longest-common-substring-2/
+9. 
 
 
