@@ -10,6 +10,7 @@ Tree
 
 * Morris Traversal Tree
 * Suffix Tree Application 5 – Longest Common Substring [http://www.geeksforgeeks.org/suffix-tree-application-5-longest-common-substring-2/](http://www.geeksforgeeks.org/suffix-tree-application-5-longest-common-substring-2/)
+* Prefix Tree
 * Segment Tree
 
 * Binary Indexed Tree\(Fenwick Tree\)
@@ -32,11 +33,7 @@ Adjacency Matrix:  [http://www.sanfoundry.com/java-program-implement-bellmanford
 
 * Minimum Spanning Tree
 
-\[Prim's\]  Adjacency Matrix: http://www.geeksforgeeks.org/greedy-algorithms-set-5-prims-minimum-spanning-tree-mst-2/
+\[Prim's\]  Adjacency Matrix: [http://www.geeksforgeeks.org/greedy-algorithms-set-5-prims-minimum-spanning-tree-mst-2/](http://www.geeksforgeeks.org/greedy-algorithms-set-5-prims-minimum-spanning-tree-mst-2/)
 
-\[Kruskal's\]  Adjacency Matrix: http://www.sanfoundry.com/java-program-find-mst-using-kruskals-algorithm/
-
-
-
-
+\[Kruskal's\]  Adjacency Matrix: [http://www.sanfoundry.com/java-program-find-mst-using-kruskals-algorithm/](http://www.sanfoundry.com/java-program-find-mst-using-kruskals-algorithm/)
 
