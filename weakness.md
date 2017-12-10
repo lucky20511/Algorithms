@@ -18,17 +18,17 @@ Graph
 
 * Floyd–Warshall
 
-      Adjacency Matrix:  http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm/
+Adjacency Matrix:  http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm/
 
 [https://cs.stackexchange.com/questions/2942/am-i-right-about-the-differences-between-floyd-warshall-dijkstra-and-bellman-fo](https://cs.stackexchange.com/questions/2942/am-i-right-about-the-differences-between-floyd-warshall-dijkstra-and-bellman-fo)
 
-* Dijkstra
+* Dijkstra 
 
-       Adjacency Matrix:  http://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/
+Adjacency Matrix:  http://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/
 
 * Bellman-Ford
 
-        Adjacency Matrix:  http://www.sanfoundry.com/java-program-implement-bellmanford-algorithm/
+Adjacency Matrix:  http://www.sanfoundry.com/java-program-implement-bellmanford-algorithm/
 
 * Minimum Spanning Tree
 
