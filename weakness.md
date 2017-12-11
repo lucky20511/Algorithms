@@ -18,6 +18,10 @@ Application Longest Common Substring [http://www.geeksforgeeks.org/suffix-tree-a
 
 * Binary Indexed Tree\(Fenwick Tree\)
 
+* AVL Tree
+
+* B+ Tree
+
 ### **Graph**
 
 * Floyd–Warshall
