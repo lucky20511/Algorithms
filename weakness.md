@@ -22,6 +22,10 @@ Application Longest Common Substring [http://www.geeksforgeeks.org/suffix-tree-a
 
 * B+ Tree
 
+* Red-Black Tree
+
+* Treap
+
 ### **Graph**
 
 * Floyd–Warshall
