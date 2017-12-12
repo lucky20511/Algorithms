@@ -19,9 +19,7 @@ Application Longest Common Substring [http://www.geeksforgeeks.org/suffix-tree-a
 
 * Binary Indexed Tree\(Fenwick Tree\)
 
-A Binary Indexed Tree \(BIT\) is used to store cumulative sums. You have an arraya0, a1, ..., an. You want to be able to retrieve the sum of the firstkelements inO\(logn\)time, and you want to be able to add a quantityqto thei-th element inO\(logn\)time. Note that these two operations can be implemented with a normal array, but the time complexity will beO\(n\)andO\(1\). Tutorial[here](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=binaryIndexedTrees).
-
-A segment tree \(sometimes called _range tree_\) is a much more flexible data structure, you can use it to store many different things. You have an array a0, a1, ..., an. You want to be able to retrieve the sum \(or the maximum, or the minimum, or the greatest common divisor, or another associative function\) of the elements between the l-th and the r-th in O\(logn\)time, and you want to be able to add \(or to overwrite, or to multiply by...\) a quantity q to the i-th element \(or to _every _element between the l-th and the r-th\) inO\(logn\) time. Tutorial [here](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=lowestCommonAncestor) and [here](http://www.codeforces.com/blog/entry/3327?locale=en).
+Segment Tree v.s. Binary Indexed Tree\(Fenwick Tree\) https://discuss.codechef.com/questions/73815/segment-tree-vs-bit
 
 * AVL Tree
 
