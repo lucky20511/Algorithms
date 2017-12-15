@@ -15,11 +15,11 @@ Application Longest Common Substring [http://www.geeksforgeeks.org/suffix-tree-a
 
 * Prefix Tree
 
-* Segment Tree
+* Segment Tree \(Lazy Propagation\)
 
 * Binary Indexed Tree\(Fenwick Tree\)
 
-Segment Tree v.s. Binary Indexed Tree\(Fenwick Tree\) https://discuss.codechef.com/questions/73815/segment-tree-vs-bit
+Segment Tree v.s. Binary Indexed Tree\(Fenwick Tree\) [https://discuss.codechef.com/questions/73815/segment-tree-vs-bit](https://discuss.codechef.com/questions/73815/segment-tree-vs-bit)
 
 * AVL Tree
 
