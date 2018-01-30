@@ -248,8 +248,10 @@
 
 121. Equal Tree Partition -- divide the problem into subproblems and solve them.
 
-122. **word ladder II **-- Need to be very careful about when the searching will terminate. \(run out of words or reach the end\).   
-                           How to allow visiting next-layer node multiple time but avoid visiting previous layer multiple in the same time?
+122. **word ladder II **-- Need to be very careful about when the searching will terminate. \(run out of words or reach the end\).  
+                       Q1: How to allow visiting next-layer node multiple time but avoid visiting previous layer multiple in the same time?  
+                       Q2: How to link the node  
+                       Q3: How to trace back by DFS. Be careful on the recursion condition and the timing of add and remove the node. 
 
 123. Second Minimum Node In a Binary Tree -- Need to generalize the behavior first
 
