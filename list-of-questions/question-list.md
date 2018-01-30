@@ -248,7 +248,8 @@
 
 121. Equal Tree Partition -- divide the problem into subproblems and solve them.
 
-122. word ladder II -- Need to be very careful about when the searching will terminate. \(run out of words or reach the end\)
+122. **word ladder II **-- Need to be very careful about when the searching will terminate. \(run out of words or reach the end\).   
+                           How to allow visiting next-layer node multiple time but avoid visiting previous layer multiple in the same time?
 
 123. Second Minimum Node In a Binary Tree -- Need to generalize the behavior first
 
@@ -276,7 +277,7 @@
 
 135. Cherry pickup --
 
-136. Partition Equal Subset Sum -- 
+136. Partition Equal Subset Sum --
 
 
 
