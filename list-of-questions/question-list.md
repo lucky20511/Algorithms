@@ -285,6 +285,7 @@
 
 138. Min Stack -- Observation
 
-139. 
+139. Insert Delete GetRandom O\(1\) - Duplicates allowed -- Need to be careful on the condition
+
 
 
