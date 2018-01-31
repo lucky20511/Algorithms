@@ -283,5 +283,8 @@
 
 137. Palindrome Linked List -- Need to handle the odd and even number of nodes case carefully.
 
+138. Min Stack -- Observation
+
+139. 
 
 
