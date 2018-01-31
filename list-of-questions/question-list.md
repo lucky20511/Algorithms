@@ -275,11 +275,13 @@
 
 133. Largest Rectangle in Histogram --
 
-134. Burst Ballons --
+134. Burst Ballons -- Difficult!!
 
 135. Cherry pickup --
 
 136. Partition Equal Subset Sum --
+
+137. Palindrome Linked List -- Need to handle the odd and even number of nodes case carefully.
 
 
 
