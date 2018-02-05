@@ -34,12 +34,12 @@
 
 17. First Unique Character in a String --   'a' &gt; 'A'  in ASCII code
 
-18. Gray Code -- Observation the the regular pattern
+18. Gray Code -- Observation the the regular pattern 
 
 19. Single Number -- Bit Manipulation on XOR, but that's not enough. Take use of division.
 
 20. **Top K Frequent Elements** -- After put into the hashMap, there are two ways of dumping the value from map:  
-    \(1\) Dump entry to PriorityQueue and keep size of PriorityQueue not bigger than k  O\(nlogk\)    
+    \(1\) Dump entry to PriorityQueue and keep size of PriorityQueue not bigger than k  O\(nlogk\)  
     \(2\) Create array of PriorityQueue. The length of array is \# words. Take the value of map\(freq\) as array index. O\(nlogn\)
 
 21. Search a 2D Matrix II -- Try to figure out to make search direction "one-way" ==&gt; **exactly the same as 3-sum**
