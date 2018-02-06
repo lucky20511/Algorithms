@@ -34,7 +34,7 @@
 
 17. First Unique Character in a String --   'a' &gt; 'A'  in ASCII code
 
-18. Gray Code -- Observation the the regular pattern 
+18. Gray Code -- Observation the the regular pattern
 
 19. Single Number -- Bit Manipulation on XOR, but that's not enough. Take use of division.
 
@@ -289,5 +289,8 @@
 
 139. Insert Delete GetRandom O\(1\) - Duplicates allowed -- Need to be careful on the condition
 
+140. Count Primes -- need to steps \(1\) mark the value contains factors \(2\) count the value without any factors. The first step can stop at i \* i &lt; n, but the second step must walk through each element. Can combine these two steps to one.
+
+141. 
 
 
