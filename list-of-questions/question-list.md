@@ -291,6 +291,8 @@
 
 140. Count Primes -- need to steps \(1\) mark the value contains factors \(2\) count the value without any factors. The first step can stop at i \* i &lt; n, but the second step must walk through each element. Can combine these two steps to one.
 
-141. 
+141. Pascal's Triangle II -- be careful on handling when to add the tail 1 and when to sum the two adjacent values up.
+
+142. 
 
 
