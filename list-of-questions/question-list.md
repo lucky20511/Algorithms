@@ -293,6 +293,10 @@
 
 141. Pascal's Triangle II -- be careful on handling when to add the tail 1 and when to sum the two adjacent values up.
 
-142. 
+142. Construct String from Binary Tree -- Please be careful on handling the case
+
+143. Set Mismatch -- Firstly, need to know what we want. Then, observe the range of input.
+
+144. 
 
 
