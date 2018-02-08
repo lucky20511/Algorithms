@@ -297,6 +297,8 @@
 
 143. Set Mismatch -- Firstly, need to know what we want. Then, observe the range of input.
 
-144. 
+144. Monotone Increasing Digits -- Observation is very important
+
+145. 
 
 
