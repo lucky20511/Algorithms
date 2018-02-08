@@ -299,6 +299,11 @@
 
 144. Monotone Increasing Digits -- Observation is very important
 
-145. 
+145. Solve the Equation -- need to know how to separate the equation by \(- + \) by regex  str.split\("\(?=\[-+\]\)"\)
+
+146. Fraction Addition and Subtraction -- \(1\) need to know how to separate the equation by \( i +\),   
+                                                                   \(2\)need to know how to get the LCM and GCD
+
+147. 
 
 
