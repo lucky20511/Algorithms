@@ -293,17 +293,22 @@
 
 141. Pascal's Triangle II -- be careful on handling when to add the tail 1 and when to sum the two adjacent values up.
 
-142. Construct String from Binary Tree -- Please be careful on handling the case
+142. **Construct String from Binary Tree** -- Please be careful on handling the case
 
-143. Set Mismatch -- Firstly, need to know what we want. Then, observe the range of input.
+143. **Construct Binary Tree from String** -- please be careful and think about both stack and recursion solution.
 
-144. Monotone Increasing Digits -- Observation is very important
+144. Set Mismatch -- Firstly, need to know what we want. Then, observe the range of input.
 
-145. Solve the Equation -- need to know how to separate the equation by \(- + \) by regex  str.split\("\(?=\[-+\]\)"\)
+145. Monotone Increasing Digits -- Observation is very important
 
-146. Fraction Addition and Subtraction -- \(1\) need to know how to separate the equation by \( i +\),   
+146. Solve the Equation -- need to know how to separate the equation by \(- + \) by regex  str.split\("\(?=\[-+\]\)"\)
+
+147. Fraction Addition and Subtraction -- \(1\) need to know how to separate the equation by \( i +\),  
                                                                    \(2\)need to know how to get the LCM and GCD
 
-147. 
+148. Complex Number Multiplication -- when split by special character like . or +, can use \[ . \] or \[ + \] .   \[ it is a set \]
+
+149. 
+150. 
 
 
