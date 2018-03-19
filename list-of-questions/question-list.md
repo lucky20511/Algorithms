@@ -310,7 +310,8 @@
 
 149. Global and Local Inversions -- stick to the definition, then will figure out the answer is true if Global must equal to local. It also imply it is about the position and its value.
 
-150. Maximum Gap -- 
+150. Maximum Gap -- bucket Sort
 
+151. 
 
 
