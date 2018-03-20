@@ -312,6 +312,8 @@
 
 150. Maximum Gap -- bucket Sort
 
-151. 
+151. Count of Smaller Numbers After Self --  BST, BIT, Segment Tree
+
+152. 
 
 
