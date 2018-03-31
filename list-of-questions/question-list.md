@@ -314,6 +314,7 @@
 
 151. Count of Smaller Numbers After Self --  BST, BIT, Segment Tree
 
-152. 
+152. Shortest Palindrome -- Come up with the two center ptr first. Then can be use the technique of s + \# + reversed\(s\) and kmp to solve it in linear time.
+
 
 
