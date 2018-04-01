@@ -6,7 +6,7 @@
 * [Question List](list-of-questions/question-list.md)
 * [Weakness](weakness.md)
 * [Java Special Functions and Data Structure](list-of-questions/special-functions-and-data-structure.md)
-* Python3 Special Function and Data Structure
+* [Python3 Special Function and Data Structure](python3-special-function-and-data-structure.md)
 * [Hard Question](hard-question.md)
 * [System Design Practice](system-design-practice.md)
 
