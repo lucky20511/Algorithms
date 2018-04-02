@@ -316,5 +316,8 @@
 
 152. Shortest Palindrome -- Come up with the two center ptr first. Then can be use the technique of s + \# + reversed\(s\) and kmp to solve it in linear time.
 
+153. Largest Plus Sign -- Come up with brute-force method and think of how to speed up. Try start from the mines but fail. Then try to reuse the information before and It works.
+
+154. 
 
 
