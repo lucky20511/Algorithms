@@ -22,5 +22,25 @@ n = ord\(c\)
 
 c = chr\(n\)
 
+### Set  \(https://www.programiz.com/python-programming/set\)
 
+a={1,2,3}
+
+a.add\(4\) --&gt; a == {1,2,3,4}
+
+a.update\(\[1,5,6\]\)  --&gt; a == {1,2,3,4,5,6}
+
+2 in a  --&gt; True
+
+### Dict \(https://www.programiz.com/python-programming/dictionary\)
+
+a = {1:2, '3':'4'}
+
+1 in a --&gt; True
+
+a\[1\] = 3 --&gt; a == {1:2, '3':'4'}
+
+a.keys\(\)
+
+a.items\(\)
 
