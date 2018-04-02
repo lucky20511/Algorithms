@@ -22,7 +22,7 @@ n = ord\(c\)
 
 c = chr\(n\)
 
-### Set  \( [https://www.programiz.com/python-programming/set](https://www.programiz.com/python-programming/set%29\) \)
+### Set   [https://www.programiz.com/python-programming/set](https://www.programiz.com/python-programming/set%29%29 \)
 
 a={1,2,3}
 
@@ -32,7 +32,7 @@ a.update\(\[1,5,6\]\)  --&gt; a == {1,2,3,4,5,6}
 
 2 in a  --&gt; True
 
-### Dict \( [https://www.programiz.com/python-programming/dictionary](https://www.programiz.com/python-programming/dictionary%29\) \)
+### Dict  [https://www.programiz.com/python-programming/dictionary](https://www.programiz.com/python-programming/dictionary%29%29 \)
 
 a = {1:2, '3':'4'}
 
